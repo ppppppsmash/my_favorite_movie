@@ -1,0 +1,302 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* ---------------------------------------------------------------------------
+   NOIR — cinematic immersion.
+   One dark palette. White type, no accent hue: the posters are the color.
+   Three surfaces (bg / elev / elev-2), hairline borders at 10% white.
+--------------------------------------------------------------------------- */
+:root {
+  --bg: #0a0a0a;
+  --bg-elev: #131313;
+  --bg-elev-2: #1c1c1c;
+  --fg: #ffffff;
+  --fg-muted: #a3a3a3;
+  --fg-subtle: #6b6b6b;
+  --line: #262626;
+  --line-strong: #3a3a3a;
+  --accent: #ffffff;
+  --accent-fg: #0a0a0a;
+  --accent-soft: #1f1f1f;
+  --star: #ffd166;
+  --glass: rgb(10 10 10 / 0.72);
+  --glass-edge: rgb(255 255 255 / 0.07);
+  --shadow-card: 0 1px 2px rgb(0 0 0 / 0.5), 0 10px 30px -14px rgb(0 0 0 / 0.7);
+  --shadow-poster: 0 1px 2px rgb(0 0 0 / 0.5), 0 14px 32px -12px rgb(0 0 0 / 0.8);
+  color-scheme: dark;
+
+  /* Motion (Emil Kowalski). Built-in easings are too weak for UI. */
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+  --dur-press: 160ms;
+  --dur-hover: 200ms;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-elev: var(--bg-elev);
+  --color-elev-2: var(--bg-elev-2);
+  --color-fg: var(--fg);
+  --color-muted: var(--fg-muted);
+  --color-subtle: var(--fg-subtle);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-accent: var(--accent);
+  --color-accent-fg: var(--accent-fg);
+  --color-accent-soft: var(--accent-soft);
+  --color-star: var(--star);
+  --font-sans: var(--font-noto-sans-jp), var(--font-inter), system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  --font-display: var(--font-inter), var(--font-noto-sans-jp), system-ui, sans-serif;
+}
+
+/* ---------------------------------------------------------------------------
+   Base
+--------------------------------------------------------------------------- */
+html {
+  scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  background: var(--bg);
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+  font-feature-settings: "palt" 1;
+  -webkit-font-smoothing: antialiased;
+  text-wrap: pretty;
+}
+
+h1,
+h2,
+h3 {
+  text-wrap: balance;
+}
+
+/* Display type: negative tracking as it grows, tight leading. */
+.display {
+  font-family: var(--font-display);
+  letter-spacing: -0.03em;
+  line-height: 1;
+  font-weight: 700;
+}
+.title {
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+  font-weight: 600;
+}
+.eyebrow {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--fg-subtle);
+}
+
+/* Controls: fire click immediately on touch, never select their label on long-press. */
+button,
+[role="button"],
+.control {
+  touch-action: manipulation;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+a {
+  touch-action: manipulation;
+}
+
+/* Keyboard focus ring on links and buttons only. Text inputs show focus by their own styling. */
+:where(a, button, [role="button"], summary):focus-visible {
+  outline: 2px solid rgb(255 255 255 / 0.6);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+input:focus,
+textarea:focus,
+select:focus,
+[cmdk-input]:focus {
+  outline: none;
+}
+
+::selection {
+  background: #ffffff;
+  color: #0a0a0a;
+}
+
+input,
+textarea,
+select {
+  font-size: 16px; /* iOS: anything smaller zooms the page on focus */
+}
+
+/* ---------------------------------------------------------------------------
+   Materials
+--------------------------------------------------------------------------- */
+.glass {
+  background: var(--glass);
+  -webkit-backdrop-filter: blur(20px) saturate(140%);
+  backdrop-filter: blur(20px) saturate(140%);
+  box-shadow: inset 0 -1px 0 0 var(--glass-edge);
+}
+@media (prefers-reduced-transparency: reduce) {
+  .glass {
+    background: var(--bg);
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+}
+
+.surface {
+  background: var(--bg-elev);
+  border: 1px solid var(--line);
+}
+
+.poster {
+  box-shadow: var(--shadow-poster);
+  border-radius: 0.5rem;
+  background: var(--bg-elev-2);
+}
+
+/* Full-bleed section inside the centered main column. */
+.bleed {
+  width: 100vw;
+  margin-inline: calc(50% - 50vw);
+}
+
+/* Fade into the page background at the bottom of a backdrop. */
+.fade-bottom {
+  background: linear-gradient(to top, var(--bg) 0%, color-mix(in srgb, var(--bg) 55%, transparent) 45%, transparent 100%);
+}
+.fade-left {
+  background: linear-gradient(to right, color-mix(in srgb, var(--bg) 75%, transparent), transparent 60%);
+}
+
+/* Outlined rank digits (trending rail). */
+.rank-outline {
+  color: transparent;
+  -webkit-text-stroke: 2px rgb(255 255 255 / 0.28);
+  letter-spacing: -0.08em;
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 0.8;
+}
+
+/* ---------------------------------------------------------------------------
+   Interaction primitives
+--------------------------------------------------------------------------- */
+.pressable {
+  transition:
+    transform var(--dur-press) var(--ease-out),
+    background-color var(--dur-hover) ease,
+    border-color var(--dur-hover) ease,
+    color var(--dur-hover) ease,
+    opacity var(--dur-hover) ease;
+}
+.pressable:active {
+  transform: scale(0.97);
+}
+
+.card {
+  transition:
+    transform var(--dur-hover) var(--ease-out),
+    background-color var(--dur-hover) ease,
+    border-color var(--dur-hover) ease;
+}
+@media (hover: hover) and (pointer: fine) {
+  .card:hover {
+    transform: translateY(-2px);
+    border-color: var(--line-strong);
+  }
+}
+.card:active {
+  transform: scale(0.985);
+  transition-duration: var(--dur-press);
+}
+
+.hscroll {
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x proximity;
+  scroll-padding-inline: 1rem;
+}
+.hscroll > * {
+  scroll-snap-align: start;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  scrollbar-width: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .pressable,
+  .card,
+  .card:hover,
+  .card:active {
+    transform: none !important;
+    transition-property: background-color, border-color, color, opacity;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   cmdk palette
+--------------------------------------------------------------------------- */
+[cmdk-root] {
+  width: 100%;
+}
+[cmdk-item] {
+  cursor: pointer;
+}
+[cmdk-item][data-selected="true"] {
+  background: rgb(255 255 255 / 0.08);
+}
+[cmdk-group-heading] {
+  padding: 0.5rem 1rem 0.25rem;
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--fg-subtle);
+}
+
+/* ---------------------------------------------------------------------------
+   Prose (MDX)
+--------------------------------------------------------------------------- */
+.prose {
+  --tw-prose-body: #d4d4d4;
+  --tw-prose-headings: var(--fg);
+  --tw-prose-links: var(--fg);
+  --tw-prose-bold: var(--fg);
+  --tw-prose-quotes: var(--fg-muted);
+  --tw-prose-quote-borders: var(--line-strong);
+  --tw-prose-hr: var(--line);
+  --tw-prose-counters: var(--fg-muted);
+  --tw-prose-bullets: var(--line-strong);
+  --tw-prose-code: var(--fg);
+  --tw-prose-th-borders: var(--line);
+  --tw-prose-td-borders: var(--line);
+  --tw-prose-captions: var(--fg-muted);
+}
+.prose a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+.prose :where(h2):not(:where([class~="not-prose"] *)) {
+  font-size: 1.375rem;
+  letter-spacing: -0.02em;
+  margin-top: 2.6em;
+}
+.prose :where(h3):not(:where([class~="not-prose"] *)) {
+  font-size: 1.1rem;
+}
+
+.ad-slot:empty {
+  display: none;
+}
