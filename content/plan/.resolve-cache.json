@@ -1,0 +1,6666 @@
+{
+ "The Shawshank Redemption|1994": {
+  "id": 278,
+  "title": "ショーシャンクの空に",
+  "original": "The Shawshank Redemption",
+  "year": "1994",
+  "votes": 31654,
+  "nearMiss": false
+ },
+ "The Godfather|1972": {
+  "id": 238,
+  "title": "ゴッドファーザー",
+  "original": "The Godfather",
+  "year": "1972",
+  "votes": 23830,
+  "nearMiss": false
+ },
+ "Forrest Gump|1994": {
+  "id": 13,
+  "title": "フォレスト・ガンプ／一期一会",
+  "original": "Forrest Gump",
+  "year": "1994",
+  "votes": 30728,
+  "nearMiss": false
+ },
+ "Back to the Future|1985": {
+  "id": 105,
+  "title": "バック・トゥ・ザ・フューチャー",
+  "original": "Back to the Future",
+  "year": "1985",
+  "votes": 22633,
+  "nearMiss": false
+ },
+ "Inception|2010": {
+  "id": 27205,
+  "title": "インセプション",
+  "original": "Inception",
+  "year": "2010",
+  "votes": 40530,
+  "nearMiss": false
+ },
+ "Spirited Away|2001": {
+  "id": 129,
+  "title": "千と千尋の神隠し",
+  "original": "千と千尋の神隠し",
+  "year": "2001",
+  "votes": 19102,
+  "nearMiss": false
+ },
+ "Seven Samurai|1954": {
+  "id": 346,
+  "title": "七人の侍",
+  "original": "七人の侍",
+  "year": "1954",
+  "votes": 4430,
+  "nearMiss": false
+ },
+ "Pulp Fiction|1994": {
+  "id": 680,
+  "title": "パルプ・フィクション",
+  "original": "Pulp Fiction",
+  "year": "1994",
+  "votes": 31162,
+  "nearMiss": false
+ },
+ "The Matrix|1999": {
+  "id": 603,
+  "title": "マトリックス",
+  "original": "The Matrix",
+  "year": "1999",
+  "votes": 29040,
+  "nearMiss": false
+ },
+ "Titanic|1997": {
+  "id": 597,
+  "title": "タイタニック",
+  "original": "Titanic",
+  "year": "1997",
+  "votes": 27953,
+  "nearMiss": false
+ },
+ "Jurassic Park|1993": {
+  "id": 329,
+  "title": "ジュラシック・パーク",
+  "original": "Jurassic Park",
+  "year": "1993",
+  "votes": 18517,
+  "nearMiss": false
+ },
+ "E.T. the Extra-Terrestrial|1982": {
+  "id": 601,
+  "title": "E.T.",
+  "original": "E.T. the Extra-Terrestrial",
+  "year": "1982",
+  "votes": 12362,
+  "nearMiss": false
+ },
+ "The Truman Show|1998": {
+  "id": 37165,
+  "title": "トゥルーマン・ショー",
+  "original": "The Truman Show",
+  "year": "1998",
+  "votes": 21098,
+  "nearMiss": false
+ },
+ "Léon: The Professional|1994": {
+  "id": 101,
+  "title": "レオン",
+  "original": "Léon",
+  "year": "1994",
+  "votes": 16704,
+  "nearMiss": false
+ },
+ "Amélie|2001": {
+  "id": 194,
+  "title": "アメリ",
+  "original": "Le Fabuleux Destin d'Amélie Poulain",
+  "year": "2001",
+  "votes": 12765,
+  "nearMiss": false
+ },
+ "Whiplash|2014": {
+  "id": 244786,
+  "title": "セッション",
+  "original": "Whiplash",
+  "year": "2014",
+  "votes": 17285,
+  "nearMiss": false
+ },
+ "Your Name.|2016": {
+  "id": 398818,
+  "title": "君の名前で僕を呼んで",
+  "original": "Call Me by Your Name",
+  "year": "2017",
+  "votes": 13015,
+  "nearMiss": false
+ },
+ "The Dark Knight|2008": {
+  "id": 155,
+  "title": "ダークナイト",
+  "original": "The Dark Knight",
+  "year": "2008",
+  "votes": 37058,
+  "nearMiss": false
+ },
+ "Cinema Paradiso|1988": {
+  "id": 11216,
+  "title": "ニュー・シネマ・パラダイス",
+  "original": "Nuovo Cinema Paradiso",
+  "year": "1988",
+  "votes": 5025,
+  "nearMiss": false
+ },
+ "The Sixth Sense|1999": {
+  "id": 745,
+  "title": "シックス・センス",
+  "original": "The Sixth Sense",
+  "year": "1999",
+  "votes": 13501,
+  "nearMiss": false
+ },
+ "The Usual Suspects|1995": {
+  "id": 629,
+  "title": "ユージュアル・サスペクツ",
+  "original": "The Usual Suspects",
+  "year": "1995",
+  "votes": 11882,
+  "nearMiss": false
+ },
+ "Fight Club|1999": {
+  "id": 550,
+  "title": "ファイト・クラブ",
+  "original": "Fight Club",
+  "year": "1999",
+  "votes": 33103,
+  "nearMiss": false
+ },
+ "Memento|2000": {
+  "id": 77,
+  "title": "メメント",
+  "original": "Memento",
+  "year": "2000",
+  "votes": 16948,
+  "nearMiss": false
+ },
+ "Oldboy|2003": {
+  "id": 670,
+  "title": "オールド・ボーイ",
+  "original": "올드보이",
+  "year": "2003",
+  "votes": 10328,
+  "nearMiss": false
+ },
+ "The Prestige|2006": {
+  "id": 1124,
+  "title": "プレステージ",
+  "original": "The Prestige",
+  "year": "2006",
+  "votes": 18336,
+  "nearMiss": false
+ },
+ "Shutter Island|2010": {
+  "id": 11324,
+  "title": "シャッター アイランド",
+  "original": "Shutter Island",
+  "year": "2010",
+  "votes": 26670,
+  "nearMiss": false
+ },
+ "Gone Girl|2014": {
+  "id": 210577,
+  "title": "ゴーン・ガール",
+  "original": "Gone Girl",
+  "year": "2014",
+  "votes": 20581,
+  "nearMiss": false
+ },
+ "The Others|2001": {
+  "id": 1933,
+  "title": "アザーズ",
+  "original": "The Others",
+  "year": "2001",
+  "votes": 7504,
+  "nearMiss": false
+ },
+ "Primal Fear|1996": {
+  "id": 1592,
+  "title": "真実の行方",
+  "original": "Primal Fear",
+  "year": "1996",
+  "votes": 4232,
+  "nearMiss": false
+ },
+ "Se7en|1995": {
+  "id": 807,
+  "title": "セブン",
+  "original": "Se7en",
+  "year": "1995",
+  "votes": 24060,
+  "nearMiss": false
+ },
+ "Knives Out|2019": {
+  "id": 546554,
+  "title": "ナイブズ・アウト 名探偵と刃の館の秘密",
+  "original": "Knives Out",
+  "year": "2019",
+  "votes": 14679,
+  "nearMiss": false
+ },
+ "Arrival|2016": {
+  "id": 329865,
+  "title": "メッセージ",
+  "original": "Arrival",
+  "year": "2016",
+  "votes": 20074,
+  "nearMiss": false
+ },
+ "The Handmaiden|2016": {
+  "id": 290098,
+  "title": "お嬢さん",
+  "original": "아가씨",
+  "year": "2016",
+  "votes": 4554,
+  "nearMiss": false
+ },
+ "Searching|2018": {
+  "id": 489999,
+  "title": "search／サーチ",
+  "original": "Searching",
+  "year": "2018",
+  "votes": 4414,
+  "nearMiss": false
+ },
+ "Paddington 2|2017": {
+  "id": 346648,
+  "title": "パディントン２",
+  "original": "Paddington 2",
+  "year": "2017",
+  "votes": 2948,
+  "nearMiss": false
+ },
+ "Little Miss Sunshine|2006": {
+  "id": 773,
+  "title": "リトル・ミス・サンシャイン",
+  "original": "Little Miss Sunshine",
+  "year": "2006",
+  "votes": 8167,
+  "nearMiss": false
+ },
+ "Kiki's Delivery Service|1989": {
+  "id": 16859,
+  "title": "魔女の宅急便",
+  "original": "魔女の宅急便",
+  "year": "1989",
+  "votes": 4799,
+  "nearMiss": false
+ },
+ "The Intouchables|2011": {
+  "id": 77338,
+  "title": "最強のふたり",
+  "original": "Intouchables",
+  "year": "2011",
+  "votes": 18978,
+  "nearMiss": false
+ },
+ "Chef|2014": {
+  "id": 212778,
+  "title": "シェフ 三ツ星フードトラック始めました",
+  "original": "Chef",
+  "year": "2014",
+  "votes": 3817,
+  "nearMiss": false
+ },
+ "Julie & Julia|2009": {
+  "id": 24803,
+  "title": "ジュリー&ジュリア",
+  "original": "Julie & Julia",
+  "year": "2009",
+  "votes": 2278,
+  "nearMiss": false
+ },
+ "About Time|2013": {
+  "id": 122906,
+  "title": "アバウト・タイム ～愛おしい時間について～",
+  "original": "About Time",
+  "year": "2013",
+  "votes": 9605,
+  "nearMiss": false
+ },
+ "Little Forest|2018": {
+  "id": 448491,
+  "title": "リトル・フォレスト 春夏秋冬",
+  "original": "리틀 포레스트",
+  "year": "2018",
+  "votes": 190,
+  "nearMiss": false
+ },
+ "Kamome Shokudo|2006": {
+  "id": 25657,
+  "title": "かもめ食堂",
+  "original": "かもめ食堂",
+  "year": "2006",
+  "votes": 70,
+  "nearMiss": false
+ },
+ "Perfect Days|2023": {
+  "id": 976893,
+  "title": "PERFECT DAYS",
+  "original": "PERFECT DAYS",
+  "year": "2023",
+  "votes": 2124,
+  "nearMiss": false
+ },
+ "Midnight in Paris|2011": {
+  "id": 59436,
+  "title": "ミッドナイト・イン・パリ",
+  "original": "Midnight in Paris",
+  "year": "2011",
+  "votes": 7947,
+  "nearMiss": false
+ },
+ "The Secret Life of Walter Mitty|2013": {
+  "id": 116745,
+  "title": "LIFE！/ライフ",
+  "original": "The Secret Life of Walter Mitty",
+  "year": "2013",
+  "votes": 8561,
+  "nearMiss": false
+ },
+ "My Neighbor Totoro|1988": {
+  "id": 8392,
+  "title": "となりのトトロ",
+  "original": "となりのトトロ",
+  "year": "1988",
+  "votes": 9188,
+  "nearMiss": false
+ },
+ "Oppenheimer|2023": {
+  "id": 872585,
+  "title": "オッペンハイマー",
+  "original": "Oppenheimer",
+  "year": "2023",
+  "votes": 12753,
+  "nearMiss": false
+ },
+ "Poor Things|2023": {
+  "id": 792307,
+  "title": "哀れなるものたち",
+  "original": "Poor Things",
+  "year": "2023",
+  "votes": 5867,
+  "nearMiss": false
+ },
+ "The Zone of Interest|2023": {
+  "id": 467244,
+  "title": "関心領域",
+  "original": "The Zone of Interest",
+  "year": "2023",
+  "votes": 2800,
+  "nearMiss": false
+ },
+ "Past Lives|2023": {
+  "id": 666277,
+  "title": "パスト ライブス／再会",
+  "original": "Past Lives",
+  "year": "2023",
+  "votes": 2520,
+  "nearMiss": false
+ },
+ "Anatomy of a Fall|2023": {
+  "id": 915935,
+  "title": "落下の解剖学",
+  "original": "Anatomie d'une chute",
+  "year": "2023",
+  "votes": 3541,
+  "nearMiss": false
+ },
+ "The Boy and the Heron|2023": {
+  "id": 508883,
+  "title": "君たちはどう生きるか",
+  "original": "君たちはどう生きるか",
+  "year": "2023",
+  "votes": 2874,
+  "nearMiss": false
+ },
+ "Godzilla Minus One|2023": {
+  "id": 940721,
+  "title": "ゴジラ-1.0",
+  "original": "ゴジラ-1.0",
+  "year": "2023",
+  "votes": 3535,
+  "nearMiss": false
+ },
+ "Dune: Part Two|2024": {
+  "id": 693134,
+  "title": "デューン 砂の惑星PART2",
+  "original": "Dune: Part Two",
+  "year": "2024",
+  "votes": 8810,
+  "nearMiss": false
+ },
+ "Anora|2024": {
+  "id": 1064213,
+  "title": "ANORA アノーラ",
+  "original": "Anora",
+  "year": "2024",
+  "votes": 3585,
+  "nearMiss": false
+ },
+ "The Substance|2024": {
+  "id": 933260,
+  "title": "サブスタンス",
+  "original": "The Substance",
+  "year": "2024",
+  "votes": 6677,
+  "nearMiss": false
+ },
+ "The Holdovers|2023": {
+  "id": 840430,
+  "title": "ホールドオーバーズ 置いてけぼりのホリディ",
+  "original": "The Holdovers",
+  "year": "2023",
+  "votes": 2738,
+  "nearMiss": false
+ },
+ "Challengers|2024": {
+  "id": 937287,
+  "title": "チャレンジャーズ",
+  "original": "Challengers",
+  "year": "2024",
+  "votes": 2915,
+  "nearMiss": false
+ },
+ "Civil War|2024": {
+  "id": 929590,
+  "title": "シビル・ウォー アメリカ最後の日",
+  "original": "Civil War",
+  "year": "2024",
+  "votes": 4665,
+  "nearMiss": false
+ },
+ "2001: A Space Odyssey|1968": {
+  "id": 62,
+  "title": "2001年宇宙の旅",
+  "original": "2001: A Space Odyssey",
+  "year": "1968",
+  "votes": 13078,
+  "nearMiss": false
+ },
+ "Blade Runner|1982": {
+  "id": 78,
+  "title": "ブレードランナー",
+  "original": "Blade Runner",
+  "year": "1982",
+  "votes": 15549,
+  "nearMiss": false
+ },
+ "Blade Runner 2049|2017": {
+  "id": 335984,
+  "title": "ブレードランナー 2049",
+  "original": "Blade Runner 2049",
+  "year": "2017",
+  "votes": 15898,
+  "nearMiss": false
+ },
+ "Alien|1979": {
+  "id": 348,
+  "title": "エイリアン",
+  "original": "Alien",
+  "year": "1979",
+  "votes": 17025,
+  "nearMiss": false
+ },
+ "Interstellar|2014": {
+  "id": 157336,
+  "title": "インターステラー",
+  "original": "Interstellar",
+  "year": "2014",
+  "votes": 41606,
+  "nearMiss": false
+ },
+ "Ex Machina|2014": {
+  "id": 264660,
+  "title": "エクス・マキナ",
+  "original": "Ex Machina",
+  "year": "2015",
+  "votes": 14725,
+  "nearMiss": false
+ },
+ "Her|2013": {
+  "id": 152601,
+  "title": "her／世界でひとつの彼女",
+  "original": "Her",
+  "year": "2013",
+  "votes": 15766,
+  "nearMiss": false
+ },
+ "Dune|2021": {
+  "id": 438631,
+  "title": "DUNE／デューン 砂の惑星",
+  "original": "Dune",
+  "year": "2021",
+  "votes": 15793,
+  "nearMiss": false
+ },
+ "Children of Men|2006": {
+  "id": 9693,
+  "title": "トゥモロー・ワールド",
+  "original": "Children of Men",
+  "year": "2006",
+  "votes": 8221,
+  "nearMiss": false
+ },
+ "Gattaca|1997": {
+  "id": 782,
+  "title": "ガタカ",
+  "original": "Gattaca",
+  "year": "1997",
+  "votes": 7234,
+  "nearMiss": false
+ },
+ "District 9|2009": {
+  "id": 17654,
+  "title": "第9地区",
+  "original": "District 9",
+  "year": "2009",
+  "votes": 10762,
+  "nearMiss": false
+ },
+ "Edge of Tomorrow|2014": {
+  "id": 137113,
+  "title": "オール・ユー・ニード・イズ・キル",
+  "original": "Edge of Tomorrow",
+  "year": "2014",
+  "votes": 15668,
+  "nearMiss": false
+ },
+ "Zodiac|2007": {
+  "id": 1949,
+  "title": "ゾディアック",
+  "original": "Zodiac",
+  "year": "2007",
+  "votes": 12046,
+  "nearMiss": false
+ },
+ "Prisoners|2013": {
+  "id": 146233,
+  "title": "プリズナーズ",
+  "original": "Prisoners",
+  "year": "2013",
+  "votes": 13670,
+  "nearMiss": false
+ },
+ "Memories of Murder|2003": {
+  "id": 11423,
+  "title": "殺人の追憶",
+  "original": "살인의 추억",
+  "year": "2003",
+  "votes": 4896,
+  "nearMiss": false
+ },
+ "The Silence of the Lambs|1991": {
+  "id": 274,
+  "title": "羊たちの沈黙",
+  "original": "The Silence of the Lambs",
+  "year": "1991",
+  "votes": 18719,
+  "nearMiss": false
+ },
+ "No Country for Old Men|2007": {
+  "id": 6977,
+  "title": "ノーカントリー",
+  "original": "No Country for Old Men",
+  "year": "2007",
+  "votes": 13959,
+  "nearMiss": false
+ },
+ "Nightcrawler|2014": {
+  "id": 242582,
+  "title": "ナイトクローラー",
+  "original": "Nightcrawler",
+  "year": "2014",
+  "votes": 12192,
+  "nearMiss": false
+ },
+ "The Girl with the Dragon Tattoo|2011": {
+  "id": 65754,
+  "title": "ドラゴン・タトゥーの女",
+  "original": "The Girl with the Dragon Tattoo",
+  "year": "2011",
+  "votes": 7878,
+  "nearMiss": false
+ },
+ "Mystic River|2003": {
+  "id": 322,
+  "title": "ミスティック・リバー",
+  "original": "Mystic River",
+  "year": "2003",
+  "votes": 7792,
+  "nearMiss": false
+ },
+ "Rear Window|1954": {
+  "id": 567,
+  "title": "裏窓",
+  "original": "Rear Window",
+  "year": "1954",
+  "votes": 7443,
+  "nearMiss": false
+ },
+ "Cure|1997": {
+  "id": 36095,
+  "title": "CURE",
+  "original": "キュア",
+  "year": "1997",
+  "votes": 921,
+  "nearMiss": false
+ },
+ "Decision to Leave|2022": {
+  "id": 705996,
+  "title": "別れる決心",
+  "original": "헤어질 결심",
+  "year": "2022",
+  "votes": 1651,
+  "nearMiss": false
+ },
+ "The Shining|1980": {
+  "id": 694,
+  "title": "シャイニング",
+  "original": "The Shining",
+  "year": "1980",
+  "votes": 19575,
+  "nearMiss": false
+ },
+ "Hereditary|2018": {
+  "id": 493922,
+  "title": "ヘレディタリー／継承",
+  "original": "Hereditary",
+  "year": "2018",
+  "votes": 9026,
+  "nearMiss": false
+ },
+ "Get Out|2017": {
+  "id": 419430,
+  "title": "ゲット・アウト",
+  "original": "Get Out",
+  "year": "2017",
+  "votes": 19530,
+  "nearMiss": false
+ },
+ "The Exorcist|1973": {
+  "id": 9552,
+  "title": "エクソシスト",
+  "original": "The Exorcist",
+  "year": "1973",
+  "votes": 8969,
+  "nearMiss": false
+ },
+ "Ju-on: The Grudge|2002": {
+  "id": 11838,
+  "title": "呪怨 劇場版",
+  "original": "呪怨",
+  "year": "2002",
+  "votes": 1016,
+  "nearMiss": false
+ },
+ "The Thing|1982": {
+  "id": 1091,
+  "title": "遊星からの物体X",
+  "original": "The Thing",
+  "year": "1982",
+  "votes": 8384,
+  "nearMiss": false
+ },
+ "Midsommar|2019": {
+  "id": 530385,
+  "title": "ミッドサマー",
+  "original": "Midsommar",
+  "year": "2019",
+  "votes": 8553,
+  "nearMiss": false
+ },
+ "It Follows|2014": {
+  "id": 270303,
+  "title": "イット・フォローズ",
+  "original": "It Follows",
+  "year": "2015",
+  "votes": 7225,
+  "nearMiss": false
+ },
+ "The Witch|2015": {
+  "id": 310131,
+  "title": "ウィッチ",
+  "original": "The Witch",
+  "year": "2016",
+  "votes": 7965,
+  "nearMiss": false
+ },
+ "A Quiet Place|2018": {
+  "id": 447332,
+  "title": "クワイエット・プレイス",
+  "original": "A Quiet Place",
+  "year": "2018",
+  "votes": 15861,
+  "nearMiss": false
+ },
+ "The Babadook|2014": {
+  "id": 242224,
+  "title": "ババドック ～暗闇の魔物～",
+  "original": "The Babadook",
+  "year": "2014",
+  "votes": 6610,
+  "nearMiss": false
+ },
+ "Talk to Me|2022": {
+  "id": 1008042,
+  "title": "TALK TO ME トーク・トゥ・ミー",
+  "original": "Talk to Me",
+  "year": "2023",
+  "votes": 4056,
+  "nearMiss": false
+ },
+ "The Wailing|2016": {
+  "id": 293670,
+  "title": "哭声／コクソン",
+  "original": "곡성",
+  "year": "2016",
+  "votes": 2216,
+  "nearMiss": false
+ },
+ "The Godfather Part II|1974": {
+  "id": 240,
+  "title": "ゴッドファーザー PART II",
+  "original": "The Godfather Part II",
+  "year": "1974",
+  "votes": 14514,
+  "nearMiss": false
+ },
+ "Goodfellas|1990": {
+  "id": 769,
+  "title": "グッドフェローズ",
+  "original": "GoodFellas",
+  "year": "1990",
+  "votes": 14932,
+  "nearMiss": false
+ },
+ "Heat|1995": {
+  "id": 949,
+  "title": "ヒート",
+  "original": "Heat",
+  "year": "1995",
+  "votes": 8821,
+  "nearMiss": false
+ },
+ "The Departed|2006": {
+  "id": 1422,
+  "title": "ディパーテッド",
+  "original": "The Departed",
+  "year": "2006",
+  "votes": 16829,
+  "nearMiss": false
+ },
+ "City of God|2002": {
+  "id": 598,
+  "title": "シティ・オブ・ゴッド",
+  "original": "Cidade de Deus",
+  "year": "2002",
+  "votes": 8558,
+  "nearMiss": false
+ },
+ "Reservoir Dogs|1992": {
+  "id": 500,
+  "title": "レザボア・ドッグス",
+  "original": "Reservoir Dogs",
+  "year": "1992",
+  "votes": 15955,
+  "nearMiss": false
+ },
+ "Drive|2011": {
+  "id": 64690,
+  "title": "ドライヴ",
+  "original": "Drive",
+  "year": "2011",
+  "votes": 14158,
+  "nearMiss": false
+ },
+ "The Untouchables|1987": {
+  "id": 117,
+  "title": "アンタッチャブル",
+  "original": "The Untouchables",
+  "year": "1987",
+  "votes": 6397,
+  "nearMiss": false
+ },
+ "Scarface|1983": {
+  "id": 111,
+  "title": "スカーフェイス",
+  "original": "Scarface",
+  "year": "1983",
+  "votes": 13596,
+  "nearMiss": false
+ },
+ "Casino|1995": {
+  "id": 524,
+  "title": "カジノ",
+  "original": "Casino",
+  "year": "1995",
+  "votes": 6823,
+  "nearMiss": false
+ },
+ "The Man from Nowhere|2010": {
+  "id": 51608,
+  "title": "アジョシ",
+  "original": "아저씨",
+  "year": "2010",
+  "votes": 1581,
+  "nearMiss": false
+ },
+ "Before Sunrise|1995": {
+  "id": 76,
+  "title": "ビフォア・サンライズ 恋人までの距離",
+  "original": "Before Sunrise",
+  "year": "1995",
+  "votes": 4937,
+  "nearMiss": false
+ },
+ "Eternal Sunshine of the Spotless Mind|2004": {
+  "id": 38,
+  "title": "エターナル・サンシャイン",
+  "original": "Eternal Sunshine of the Spotless Mind",
+  "year": "2004",
+  "votes": 16907,
+  "nearMiss": false
+ },
+ "La La Land|2016": {
+  "id": 313369,
+  "title": "ラ・ラ・ランド",
+  "original": "La La Land",
+  "year": "2016",
+  "votes": 18651,
+  "nearMiss": false
+ },
+ "Call Me by Your Name|2017": {
+  "id": 398818,
+  "title": "君の名前で僕を呼んで",
+  "original": "Call Me by Your Name",
+  "year": "2017",
+  "votes": 13015,
+  "nearMiss": false
+ },
+ "Notting Hill|1999": {
+  "id": 509,
+  "title": "ノッティングヒルの恋人",
+  "original": "Notting Hill",
+  "year": "1999",
+  "votes": 6956,
+  "nearMiss": false
+ },
+ "Portrait of a Lady on Fire|2019": {
+  "id": 531428,
+  "title": "燃ゆる女の肖像",
+  "original": "Portrait de la jeune fille en feu",
+  "year": "2019",
+  "votes": 3078,
+  "nearMiss": false
+ },
+ "(500) Days of Summer|2009": {
+  "id": 19913,
+  "title": "(500)日のサマー",
+  "original": "(500) Days of Summer",
+  "year": "2009",
+  "votes": 11407,
+  "nearMiss": false
+ },
+ "Brokeback Mountain|2005": {
+  "id": 142,
+  "title": "ブロークバック・マウンテン",
+  "original": "Brokeback Mountain",
+  "year": "2005",
+  "votes": 7786,
+  "nearMiss": false
+ },
+ "Carol|2015": {
+  "id": 258480,
+  "title": "キャロル",
+  "original": "Carol",
+  "year": "2015",
+  "votes": 4062,
+  "nearMiss": false
+ },
+ "Love Letter|1995": {
+  "id": 47002,
+  "title": "Love Letter",
+  "original": "Love Letter",
+  "year": "1995",
+  "votes": 282,
+  "nearMiss": false
+ },
+ "Punch-Drunk Love|2002": {
+  "id": 8051,
+  "title": "パンチドランク・ラブ",
+  "original": "Punch-Drunk Love",
+  "year": "2002",
+  "votes": 2906,
+  "nearMiss": false
+ },
+ "Aftersun|2022": {
+  "id": 965150,
+  "title": "aftersun／アフターサン",
+  "original": "Aftersun",
+  "year": "2022",
+  "votes": 2021,
+  "nearMiss": false
+ },
+ "The Grand Budapest Hotel|2014": {
+  "id": 120467,
+  "title": "グランド・ブダペスト・ホテル",
+  "original": "The Grand Budapest Hotel",
+  "year": "2014",
+  "votes": 16656,
+  "nearMiss": false
+ },
+ "Groundhog Day|1993": {
+  "id": 137,
+  "title": "恋はデジャ・ブ",
+  "original": "Groundhog Day",
+  "year": "1993",
+  "votes": 9293,
+  "nearMiss": false
+ },
+ "Some Like It Hot|1959": {
+  "id": 239,
+  "title": "お熱いのがお好き",
+  "original": "Some Like It Hot",
+  "year": "1959",
+  "votes": 4036,
+  "nearMiss": false
+ },
+ "Monty Python and the Holy Grail|1975": {
+  "id": 762,
+  "title": "モンティ・パイソン・アンド・ホーリー・グレイル",
+  "original": "Monty Python and the Holy Grail",
+  "year": "1975",
+  "votes": 6678,
+  "nearMiss": false
+ },
+ "Hot Fuzz|2007": {
+  "id": 4638,
+  "title": "ホット・ファズ  - 俺たちスーパーポリスメン！",
+  "original": "Hot Fuzz",
+  "year": "2007",
+  "votes": 8709,
+  "nearMiss": false
+ },
+ "Shaun of the Dead|2004": {
+  "id": 747,
+  "title": "ショーン・オブ・ザ・デッド",
+  "original": "Shaun of the Dead",
+  "year": "2004",
+  "votes": 9748,
+  "nearMiss": false
+ },
+ "The Big Lebowski|1998": {
+  "id": 115,
+  "title": "ビッグ・リボウスキ",
+  "original": "The Big Lebowski",
+  "year": "1998",
+  "votes": 12714,
+  "nearMiss": false
+ },
+ "What We Do in the Shadows|2014": {
+  "id": 246741,
+  "title": "シェアハウス・ウィズ・ヴァンパイア",
+  "original": "What We Do in the Shadows",
+  "year": "2014",
+  "votes": 4125,
+  "nearMiss": false
+ },
+ "Extreme Job|2019": {
+  "id": 567646,
+  "title": "エクストリーム・ジョブ",
+  "original": "극한직업",
+  "year": "2019",
+  "votes": 379,
+  "nearMiss": false
+ },
+ "Swing Girls|2004": {
+  "id": 36592,
+  "title": "スウィングガールズ",
+  "original": "スウィングガールズ",
+  "year": "2004",
+  "votes": 186,
+  "nearMiss": false
+ },
+ "Jojo Rabbit|2019": {
+  "id": 515001,
+  "title": "ジョジョ・ラビット",
+  "original": "Jojo Rabbit",
+  "year": "2019",
+  "votes": 10797,
+  "nearMiss": false
+ },
+ "Barbie|2023": {
+  "id": 346698,
+  "title": "バービー",
+  "original": "Barbie",
+  "year": "2023",
+  "votes": 11727,
+  "nearMiss": false
+ },
+ "Superbad|2007": {
+  "id": 8363,
+  "title": "スーパーバッド 童貞ウォーズ",
+  "original": "Superbad",
+  "year": "2007",
+  "votes": 8467,
+  "nearMiss": false
+ },
+ "Intolerable Cruelty|2003": {
+  "id": 11775,
+  "title": "ディボース・ショウ",
+  "original": "Intolerable Cruelty",
+  "year": "2003",
+  "votes": 1729,
+  "nearMiss": false
+ },
+ "Spider-Man: Into the Spider-Verse|2018": {
+  "id": 324857,
+  "title": "スパイダーマン：スパイダーバース",
+  "original": "Spider-Man: Into the Spider-Verse",
+  "year": "2018",
+  "votes": 18065,
+  "nearMiss": false
+ },
+ "Coco|2017": {
+  "id": 354912,
+  "title": "リメンバー・ミー",
+  "original": "Coco",
+  "year": "2017",
+  "votes": 21607,
+  "nearMiss": false
+ },
+ "WALL·E|2008": {
+  "id": 10681,
+  "title": "ウォーリー",
+  "original": "WALL·E",
+  "year": "2008",
+  "votes": 21078,
+  "nearMiss": false
+ },
+ "Up|2009": {
+  "id": 14160,
+  "title": "カールじいさんの空飛ぶ家",
+  "original": "Up",
+  "year": "2009",
+  "votes": 22304,
+  "nearMiss": false
+ },
+ "Inside Out|2015": {
+  "id": 150540,
+  "title": "インサイド・ヘッド",
+  "original": "Inside Out",
+  "year": "2015",
+  "votes": 24066,
+  "nearMiss": false
+ },
+ "Toy Story 3|2010": {
+  "id": 10193,
+  "title": "トイ・ストーリー3",
+  "original": "Toy Story 3",
+  "year": "2010",
+  "votes": 16387,
+  "nearMiss": false
+ },
+ "Klaus|2019": {
+  "id": 508965,
+  "title": "クロース",
+  "original": "Klaus",
+  "year": "2019",
+  "votes": 4880,
+  "nearMiss": false
+ },
+ "Wolfwalkers|2020": {
+  "id": 441130,
+  "title": "ウルフウォーカー",
+  "original": "Wolfwalkers",
+  "year": "2020",
+  "votes": 1476,
+  "nearMiss": false
+ },
+ "Persepolis|2007": {
+  "id": 2011,
+  "title": "ペルセポリス",
+  "original": "Persepolis",
+  "year": "2007",
+  "votes": 2267,
+  "nearMiss": false
+ },
+ "Flow|2024": {
+  "id": 823219,
+  "title": "Flow",
+  "original": "Straume",
+  "year": "2024",
+  "votes": 3121,
+  "nearMiss": false
+ },
+ "Fantastic Mr. Fox|2009": {
+  "id": 10315,
+  "title": "ファンタスティック Mr.FOX",
+  "original": "Fantastic Mr. Fox",
+  "year": "2009",
+  "votes": 6404,
+  "nearMiss": false
+ },
+ "Kubo and the Two Strings|2016": {
+  "id": 313297,
+  "title": "KUBO／クボ 二本の弦の秘密",
+  "original": "Kubo and the Two Strings",
+  "year": "2016",
+  "votes": 3963,
+  "nearMiss": false
+ },
+ "The Lion King|1994": {
+  "id": 8587,
+  "title": "ライオン・キング",
+  "original": "The Lion King",
+  "year": "1994",
+  "votes": 20319,
+  "nearMiss": false
+ },
+ "Zootopia|2016": {
+  "id": 269149,
+  "title": "ズートピア",
+  "original": "Zootopia",
+  "year": "2016",
+  "votes": 18657,
+  "nearMiss": false
+ },
+ "Soul|2020": {
+  "id": 508442,
+  "title": "ソウルフル・ワールド",
+  "original": "Soul",
+  "year": "2020",
+  "votes": 11852,
+  "nearMiss": false
+ },
+ "Free Solo|2018": {
+  "id": 515042,
+  "title": "フリーソロ",
+  "original": "Free Solo",
+  "year": "2018",
+  "votes": 1599,
+  "nearMiss": false
+ },
+ "Man on Wire|2008": {
+  "id": 14048,
+  "title": "マン・オン・ワイヤー",
+  "original": "Man on Wire",
+  "year": "2008",
+  "votes": 1007,
+  "nearMiss": false
+ },
+ "Jiro Dreams of Sushi|2011": {
+  "id": 80767,
+  "title": "二郎は鮨の夢を見る",
+  "original": "Jiro Dreams of Sushi",
+  "year": "2011",
+  "votes": 802,
+  "nearMiss": false
+ },
+ "Won't You Be My Neighbor?|2018": {
+  "id": 490003,
+  "title": "ミスター・ロジャースのご近所さんになろう",
+  "original": "Won't You Be My Neighbor?",
+  "year": "2018",
+  "votes": 624,
+  "nearMiss": false
+ },
+ "Searching for Sugar Man|2012": {
+  "id": 84334,
+  "title": "Searching for Sugar Man",
+  "original": "Searching for Sugar Man",
+  "year": "2012",
+  "votes": 1079,
+  "nearMiss": false
+ },
+ "20 Feet from Stardom|2013": {
+  "id": 159014,
+  "title": "20 Feet from Stardom",
+  "original": "20 Feet from Stardom",
+  "year": "2013",
+  "votes": 270,
+  "nearMiss": false
+ },
+ "Amy|2015": {
+  "id": 331781,
+  "title": "AMY エイミー",
+  "original": "Amy",
+  "year": "2015",
+  "votes": 1343,
+  "nearMiss": false
+ },
+ "Senna|2010": {
+  "id": 58496,
+  "title": "アイルトン･セナ～音速の彼方へ",
+  "original": "Senna",
+  "year": "2010",
+  "votes": 1256,
+  "nearMiss": false
+ },
+ "The Act of Killing|2012": {
+  "id": 123678,
+  "title": "アクト・オブ・キリング",
+  "original": "The Act of Killing",
+  "year": "2012",
+  "votes": 794,
+  "nearMiss": false
+ },
+ "13th|2016": {
+  "id": 407806,
+  "title": "13th －憲法修正第13条－",
+  "original": "13th",
+  "year": "2016",
+  "votes": 819,
+  "nearMiss": false
+ },
+ "Honeyland|2019": {
+  "id": 566213,
+  "title": "ハニーランド 永遠の谷",
+  "original": "Медена земја",
+  "year": "2019",
+  "votes": 313,
+  "nearMiss": false
+ },
+ "My Octopus Teacher|2020": {
+  "id": 682110,
+  "title": "オクトパスの神秘: 海の賢者は語る",
+  "original": "My Octopus Teacher",
+  "year": "2020",
+  "votes": 1103,
+  "nearMiss": false
+ },
+ "Apollo 11|2019": {
+  "id": 549559,
+  "title": "アポロ11 完全版",
+  "original": "Apollo 11",
+  "year": "2019",
+  "votes": 737,
+  "nearMiss": false
+ },
+ "Summer of Soul|2021": {
+  "id": 776527,
+  "title": "サマー・オブ・ソウル（あるいは、革命がテレビ放映されなかった時）",
+  "original": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+  "year": "2021",
+  "votes": 236,
+  "nearMiss": false
+ },
+ "Fire of Love|2022": {
+  "id": 913823,
+  "title": "Fire of Love",
+  "original": "Fire of Love",
+  "year": "2022",
+  "votes": 274,
+  "nearMiss": false
+ },
+ "Saving Private Ryan|1998": {
+  "id": 857,
+  "title": "プライベート・ライアン",
+  "original": "Saving Private Ryan",
+  "year": "1998",
+  "votes": 17977,
+  "nearMiss": false
+ },
+ "Apocalypse Now|1979": {
+  "id": 28,
+  "title": "地獄の黙示録",
+  "original": "Apocalypse Now",
+  "year": "1979",
+  "votes": 9491,
+  "nearMiss": false
+ },
+ "Full Metal Jacket|1987": {
+  "id": 600,
+  "title": "フルメタル・ジャケット",
+  "original": "Full Metal Jacket",
+  "year": "1987",
+  "votes": 11877,
+  "nearMiss": false
+ },
+ "Dunkirk|2017": {
+  "id": 374720,
+  "title": "ダンケルク",
+  "original": "Dunkirk",
+  "year": "2017",
+  "votes": 18142,
+  "nearMiss": false
+ },
+ "1917|2019": {
+  "id": 530915,
+  "title": "1917 命をかけた伝令",
+  "original": "1917",
+  "year": "2019",
+  "votes": 14040,
+  "nearMiss": false
+ },
+ "The Pianist|2002": {
+  "id": 423,
+  "title": "戦場のピアニスト",
+  "original": "The Pianist",
+  "year": "2002",
+  "votes": 10562,
+  "nearMiss": false
+ },
+ "Schindler's List|1993": {
+  "id": 424,
+  "title": "シンドラーのリスト",
+  "original": "Schindler's List",
+  "year": "1993",
+  "votes": 18090,
+  "nearMiss": false
+ },
+ "Come and See|1985": {
+  "id": 25237,
+  "title": "炎628",
+  "original": "Иди и смотри",
+  "year": "1985",
+  "votes": 2000,
+  "nearMiss": false
+ },
+ "Grave of the Fireflies|1988": {
+  "id": 12477,
+  "title": "火垂るの墓",
+  "original": "火垂るの墓",
+  "year": "1988",
+  "votes": 6904,
+  "nearMiss": false
+ },
+ "Hacksaw Ridge|2016": {
+  "id": 324786,
+  "title": "ハクソー・リッジ",
+  "original": "Hacksaw Ridge",
+  "year": "2016",
+  "votes": 15439,
+  "nearMiss": false
+ },
+ "Platoon|1986": {
+  "id": 792,
+  "title": "プラトーン",
+  "original": "Platoon",
+  "year": "1986",
+  "votes": 5359,
+  "nearMiss": false
+ },
+ "All Quiet on the Western Front|2022": {
+  "id": 49046,
+  "title": "西部戦線異状なし",
+  "original": "Im Westen nichts Neues",
+  "year": "2022",
+  "votes": 5022,
+  "nearMiss": false
+ },
+ "The Thin Red Line|1998": {
+  "id": 8741,
+  "title": "シン・レッド・ライン",
+  "original": "The Thin Red Line",
+  "year": "1998",
+  "votes": 3471,
+  "nearMiss": false
+ },
+ "Sing Street|2016": {
+  "id": 369557,
+  "title": "シング・ストリート 未来へのうた",
+  "original": "Sing Street",
+  "year": "2016",
+  "votes": 2535,
+  "nearMiss": false
+ },
+ "Once|2007": {
+  "id": 5723,
+  "title": "ONCE ダブリンの街角で",
+  "original": "Once",
+  "year": "2007",
+  "votes": 1514,
+  "nearMiss": false
+ },
+ "Begin Again|2013": {
+  "id": 198277,
+  "title": "はじまりのうた",
+  "original": "Begin Again",
+  "year": "2014",
+  "votes": 4092,
+  "nearMiss": false
+ },
+ "Bohemian Rhapsody|2018": {
+  "id": 424694,
+  "title": "ボヘミアン・ラプソディ",
+  "original": "Bohemian Rhapsody",
+  "year": "2018",
+  "votes": 18170,
+  "nearMiss": false
+ },
+ "Amadeus|1984": {
+  "id": 279,
+  "title": "アマデウス",
+  "original": "Amadeus",
+  "year": "1984",
+  "votes": 4983,
+  "nearMiss": false
+ },
+ "Almost Famous|2000": {
+  "id": 786,
+  "title": "あの頃ペニー・レインと",
+  "original": "Almost Famous",
+  "year": "2000",
+  "votes": 3276,
+  "nearMiss": false
+ },
+ "Inside Llewyn Davis|2013": {
+  "id": 86829,
+  "title": "インサイド・ルーウィン・デイヴィス 名もなき男の歌",
+  "original": "Inside Llewyn Davis",
+  "year": "2013",
+  "votes": 3032,
+  "nearMiss": false
+ },
+ "Rocketman|2019": {
+  "id": 504608,
+  "title": "ロケットマン",
+  "original": "Rocketman",
+  "year": "2019",
+  "votes": 5123,
+  "nearMiss": false
+ },
+ "School of Rock|2003": {
+  "id": 1584,
+  "title": "スクール・オブ・ロック",
+  "original": "The School of Rock",
+  "year": "2003",
+  "votes": 6446,
+  "nearMiss": false
+ },
+ "The Blues Brothers|1980": {
+  "id": 525,
+  "title": "ブルース・ブラザース",
+  "original": "The Blues Brothers",
+  "year": "1980",
+  "votes": 4722,
+  "nearMiss": false
+ },
+ "A Star Is Born|2018": {
+  "id": 332562,
+  "title": "アリー／ スター誕生",
+  "original": "A Star Is Born",
+  "year": "2018",
+  "votes": 12462,
+  "nearMiss": false
+ },
+ "Tár|2022": {
+  "id": 817758,
+  "title": "TAR／ター",
+  "original": "TÁR",
+  "year": "2022",
+  "votes": 1627,
+  "nearMiss": false
+ },
+ "Looper|2012": {
+  "id": 59967,
+  "title": "LOOPER／ルーパー",
+  "original": "Looper",
+  "year": "2012",
+  "votes": 11298,
+  "nearMiss": false
+ },
+ "Primer|2004": {
+  "id": 14337,
+  "title": "プライマー",
+  "original": "Primer",
+  "year": "2004",
+  "votes": 2578,
+  "nearMiss": false
+ },
+ "Predestination|2014": {
+  "id": 206487,
+  "title": "プリデスティネーション",
+  "original": "Predestination",
+  "year": "2014",
+  "votes": 7440,
+  "nearMiss": false
+ },
+ "Palm Springs|2020": {
+  "id": 587792,
+  "title": "パーム・スプリングス",
+  "original": "Palm Springs",
+  "year": "2020",
+  "votes": 3961,
+  "nearMiss": false
+ },
+ "The Girl Who Leapt Through Time|2006": {
+  "id": 14069,
+  "title": "時をかける少女",
+  "original": "時をかける少女",
+  "year": "2006",
+  "votes": 2335,
+  "nearMiss": false
+ },
+ "Happy Death Day|2017": {
+  "id": 440021,
+  "title": "ハッピー・デス・デイ",
+  "original": "Happy Death Day",
+  "year": "2017",
+  "votes": 6754,
+  "nearMiss": false
+ },
+ "Run Lola Run|1998": {
+  "id": 104,
+  "title": "ラン・ローラ・ラン",
+  "original": "Lola rennt",
+  "year": "1998",
+  "votes": 2710,
+  "nearMiss": false
+ },
+ "12 Monkeys|1995": {
+  "id": 63,
+  "title": "12モンキーズ",
+  "original": "Twelve Monkeys",
+  "year": "1995",
+  "votes": 9489,
+  "nearMiss": false
+ },
+ "Tenet|2020": {
+  "id": 577922,
+  "title": "TENET テネット",
+  "original": "Tenet",
+  "year": "2020",
+  "votes": 11675,
+  "nearMiss": false
+ },
+ "Source Code|2011": {
+  "id": 45612,
+  "title": "ミッション：8ミニッツ",
+  "original": "Source Code",
+  "year": "2011",
+  "votes": 9516,
+  "nearMiss": false
+ },
+ "The Great Escape|1963": {
+  "id": 5925,
+  "title": "大脱走",
+  "original": "The Great Escape",
+  "year": "1963",
+  "votes": 2982,
+  "nearMiss": false
+ },
+ "Escape from Alcatraz|1979": {
+  "id": 10734,
+  "title": "アルカトラズからの脱出",
+  "original": "Escape from Alcatraz",
+  "year": "1979",
+  "votes": 3329,
+  "nearMiss": false
+ },
+ "Papillon|1973": {
+  "id": 5924,
+  "title": "パピヨン",
+  "original": "Papillon",
+  "year": "1973",
+  "votes": 2211,
+  "nearMiss": false
+ },
+ "Cool Hand Luke|1967": {
+  "id": 903,
+  "title": "暴力脱獄",
+  "original": "Cool Hand Luke",
+  "year": "1967",
+  "votes": 1691,
+  "nearMiss": false
+ },
+ "A Prophet|2009": {
+  "id": 21575,
+  "title": "預言者",
+  "original": "Un prophète",
+  "year": "2009",
+  "votes": 1804,
+  "nearMiss": false
+ },
+ "Le Trou|1960": {
+  "id": 29259,
+  "title": "穴",
+  "original": "Le Trou",
+  "year": "1960",
+  "votes": 607,
+  "nearMiss": false
+ },
+ "The Count of Monte-Cristo|2024": {
+  "id": 1084736,
+  "title": "モンテ・クリスト伯",
+  "original": "Le Comte de Monte-Cristo",
+  "year": "2024",
+  "votes": 2168,
+  "nearMiss": false
+ },
+ "Midnight Express|1978": {
+  "id": 11327,
+  "title": "ミッドナイト・エクスプレス",
+  "original": "Midnight Express",
+  "year": "1978",
+  "votes": 1969,
+  "nearMiss": false
+ },
+ "Escape Plan|2013": {
+  "id": 107846,
+  "title": "大脱出",
+  "original": "Escape Plan",
+  "year": "2013",
+  "votes": 5795,
+  "nearMiss": false
+ },
+ "Bronson|2008": {
+  "id": 18533,
+  "title": "ブロンソン",
+  "original": "Bronson",
+  "year": "2009",
+  "votes": 2808,
+  "nearMiss": false
+ },
+ "Chicken Run|2000": {
+  "id": 7443,
+  "title": "チキンラン",
+  "original": "Chicken Run",
+  "year": "2000",
+  "votes": 5573,
+  "nearMiss": false
+ },
+ "Ocean's Eleven|2001": {
+  "id": 161,
+  "title": "オーシャンズ11",
+  "original": "Ocean's Eleven",
+  "year": "2001",
+  "votes": 13037,
+  "nearMiss": false
+ },
+ "Inside Man|2006": {
+  "id": 388,
+  "title": "インサイド・マン",
+  "original": "Inside Man",
+  "year": "2006",
+  "votes": 6646,
+  "nearMiss": false
+ },
+ "The Italian Job|2003": {
+  "id": 9654,
+  "title": "ミニミニ大作戦",
+  "original": "The Italian Job",
+  "year": "2003",
+  "votes": 6269,
+  "nearMiss": false
+ },
+ "Baby Driver|2017": {
+  "id": 339403,
+  "title": "ベイビー・ドライバー",
+  "original": "Baby Driver",
+  "year": "2017",
+  "votes": 17352,
+  "nearMiss": false
+ },
+ "Logan Lucky|2017": {
+  "id": 399170,
+  "title": "ローガン・ラッキー",
+  "original": "Logan Lucky",
+  "year": "2017",
+  "votes": 3996,
+  "nearMiss": false
+ },
+ "The Town|2010": {
+  "id": 23168,
+  "title": "ザ・タウン",
+  "original": "The Town",
+  "year": "2010",
+  "votes": 5913,
+  "nearMiss": false
+ },
+ "Rififi|1955": {
+  "id": 934,
+  "title": "Du rififi chez les hommes",
+  "original": "Du rififi chez les hommes",
+  "year": "1955",
+  "votes": 661,
+  "nearMiss": false
+ },
+ "Dog Day Afternoon|1975": {
+  "id": 968,
+  "title": "狼たちの午後",
+  "original": "Dog Day Afternoon",
+  "year": "1975",
+  "votes": 3551,
+  "nearMiss": false
+ },
+ "Thief|1981": {
+  "id": 11524,
+  "title": "ザ・クラッカー／真夜中のアウトロー",
+  "original": "Thief",
+  "year": "1981",
+  "votes": 918,
+  "nearMiss": false
+ },
+ "Widows|2018": {
+  "id": 401469,
+  "title": "ロスト・マネー 偽りの報酬",
+  "original": "Widows",
+  "year": "2018",
+  "votes": 2556,
+  "nearMiss": false
+ },
+ "12 Angry Men|1957": {
+  "id": 389,
+  "title": "十二人の怒れる男",
+  "original": "12 Angry Men",
+  "year": "1957",
+  "votes": 10515,
+  "nearMiss": false
+ },
+ "A Few Good Men|1992": {
+  "id": 881,
+  "title": "ア・フュー・グッドメン",
+  "original": "A Few Good Men",
+  "year": "1992",
+  "votes": 4380,
+  "nearMiss": false
+ },
+ "To Kill a Mockingbird|1962": {
+  "id": 595,
+  "title": "アラバマ物語",
+  "original": "To Kill a Mockingbird",
+  "year": "1962",
+  "votes": 2992,
+  "nearMiss": false
+ },
+ "The Trial of the Chicago 7|2020": {
+  "id": 556984,
+  "title": "シカゴ7裁判",
+  "original": "The Trial of the Chicago 7",
+  "year": "2020",
+  "votes": 3486,
+  "nearMiss": false
+ },
+ "Philadelphia|1993": {
+  "id": 9800,
+  "title": "フィラデルフィア",
+  "original": "Philadelphia",
+  "year": "1993",
+  "votes": 4799,
+  "nearMiss": false
+ },
+ "Judgment at Nuremberg|1961": {
+  "id": 821,
+  "title": "ニュールンベルグ裁判",
+  "original": "Judgment at Nuremberg",
+  "year": "1961",
+  "votes": 1006,
+  "nearMiss": false
+ },
+ "Just Mercy|2019": {
+  "id": 522212,
+  "title": "黒い司法 0%からの奇跡",
+  "original": "Just Mercy",
+  "year": "2019",
+  "votes": 2568,
+  "nearMiss": false
+ },
+ "Witness for the Prosecution|1957": {
+  "id": 37257,
+  "title": "情婦",
+  "original": "Witness for the Prosecution",
+  "year": "1957",
+  "votes": 1799,
+  "nearMiss": false
+ },
+ "Anatomy of a Murder|1959": {
+  "id": 93,
+  "title": "或る殺人",
+  "original": "Anatomy of a Murder",
+  "year": "1959",
+  "votes": 1235,
+  "nearMiss": false
+ },
+ "The Verdict|1982": {
+  "id": 24226,
+  "title": "評決",
+  "original": "The Verdict",
+  "year": "1982",
+  "votes": 776,
+  "nearMiss": false
+ },
+ "Dark Waters|2019": {
+  "id": 552178,
+  "title": "ダーク・ウォーターズ",
+  "original": "Dark Waters",
+  "year": "2019",
+  "votes": 2649,
+  "nearMiss": false
+ },
+ "Tampopo|1985": {
+  "id": 11830,
+  "title": "タンポポ",
+  "original": "タンポポ",
+  "year": "1985",
+  "votes": 466,
+  "nearMiss": false
+ },
+ "Ratatouille|2007": {
+  "id": 2062,
+  "title": "レミーのおいしいレストラン",
+  "original": "Ratatouille",
+  "year": "2007",
+  "votes": 19120,
+  "nearMiss": false
+ },
+ "Babette's Feast|1987": {
+  "id": 11832,
+  "title": "バベットの晩餐会",
+  "original": "Babettes gæstebud",
+  "year": "1987",
+  "votes": 460,
+  "nearMiss": false
+ },
+ "Big Night|1996": {
+  "id": 18203,
+  "title": "Big Night",
+  "original": "Big Night",
+  "year": "1996",
+  "votes": 287,
+  "nearMiss": false
+ },
+ "The Hundred-Foot Journey|2014": {
+  "id": 228194,
+  "title": "マダム・マロリーと魔法のスパイス",
+  "original": "The Hundred-Foot Journey",
+  "year": "2014",
+  "votes": 1596,
+  "nearMiss": false
+ },
+ "Little Forest: Summer/Autumn|2014": {
+  "id": 294682,
+  "title": "リトル・フォレスト 夏・秋",
+  "original": "リトル・フォレスト 夏・秋",
+  "year": "2014",
+  "votes": 125,
+  "nearMiss": false
+ },
+ "The Menu|2022": {
+  "id": 593643,
+  "title": "ザ・メニュー",
+  "original": "The Menu",
+  "year": "2022",
+  "votes": 6805,
+  "nearMiss": false
+ },
+ "The Taste of Things|2023": {
+  "id": 964960,
+  "title": "ポトフ 美食家と料理人",
+  "original": "La Passion de Dodin Bouffant",
+  "year": "2023",
+  "votes": 428,
+  "nearMiss": false
+ },
+ "Burnt|2015": {
+  "id": 295964,
+  "title": "二ツ星の料理人",
+  "original": "Burnt",
+  "year": "2015",
+  "votes": 3663,
+  "nearMiss": false
+ },
+ "The Lunchbox|2013": {
+  "id": 191714,
+  "title": "めぐり逢わせのお弁当",
+  "original": "The Lunchbox",
+  "year": "2013",
+  "votes": 857,
+  "nearMiss": false
+ },
+ "Thelma & Louise|1991": {
+  "id": 1541,
+  "title": "テルマ&ルイーズ",
+  "original": "Thelma & Louise",
+  "year": "1991",
+  "votes": 4053,
+  "nearMiss": false
+ },
+ "Paris, Texas|1984": {
+  "id": 655,
+  "title": "パリ、テキサス",
+  "original": "Paris, Texas",
+  "year": "1984",
+  "votes": 2352,
+  "nearMiss": false
+ },
+ "Nomadland|2020": {
+  "id": 581734,
+  "title": "ノマドランド",
+  "original": "Nomadland",
+  "year": "2021",
+  "votes": 3505,
+  "nearMiss": false
+ },
+ "Y Tu Mamá También|2001": {
+  "id": 1391,
+  "title": "天国の口、終りの楽園。",
+  "original": "Y tu mamá también",
+  "year": "2001",
+  "votes": 1856,
+  "nearMiss": false
+ },
+ "Green Book|2018": {
+  "id": 490132,
+  "title": "グリーンブック",
+  "original": "Green Book",
+  "year": "2018",
+  "votes": 13415,
+  "nearMiss": false
+ },
+ "The Straight Story|1999": {
+  "id": 404,
+  "title": "ストレイト・ストーリー",
+  "original": "The Straight Story",
+  "year": "1999",
+  "votes": 1903,
+  "nearMiss": false
+ },
+ "Into the Wild|2007": {
+  "id": 5915,
+  "title": "イントゥ・ザ・ワイルド",
+  "original": "Into the Wild",
+  "year": "2007",
+  "votes": 10421,
+  "nearMiss": false
+ },
+ "Rain Man|1988": {
+  "id": 380,
+  "title": "レインマン",
+  "original": "Rain Man",
+  "year": "1988",
+  "votes": 7425,
+  "nearMiss": false
+ },
+ "Easy Rider|1969": {
+  "id": 624,
+  "title": "イージー・ライダー",
+  "original": "Easy Rider",
+  "year": "1969",
+  "votes": 2248,
+  "nearMiss": false
+ },
+ "Mad Max: Fury Road|2015": {
+  "id": 76341,
+  "title": "マッドマックス 怒りのデス・ロード",
+  "original": "Mad Max: Fury Road",
+  "year": "2015",
+  "votes": 24832,
+  "nearMiss": false
+ },
+ "Kikujiro|1999": {
+  "id": 4291,
+  "title": "菊次郎の夏",
+  "original": "菊次郎の夏",
+  "year": "1999",
+  "votes": 627,
+  "nearMiss": false
+ },
+ "The Motorcycle Diaries|2004": {
+  "id": 1653,
+  "title": "モーターサイクル・ダイアリーズ",
+  "original": "Diarios de motocicleta",
+  "year": "2004",
+  "votes": 1486,
+  "nearMiss": false
+ },
+ "Nebraska|2013": {
+  "id": 129670,
+  "title": "ネブラスカ ふたつの心をつなぐ旅",
+  "original": "Nebraska",
+  "year": "2013",
+  "votes": 2002,
+  "nearMiss": false
+ },
+ "Stand by Me|1986": {
+  "id": 235,
+  "title": "スタンド・バイ・ミー",
+  "original": "Stand by Me",
+  "year": "1986",
+  "votes": 6812,
+  "nearMiss": false
+ },
+ "Lady Bird|2017": {
+  "id": 391713,
+  "title": "レディ・バード",
+  "original": "Lady Bird",
+  "year": "2017",
+  "votes": 9235,
+  "nearMiss": false
+ },
+ "Boyhood|2014": {
+  "id": 85350,
+  "title": "6才のボクが、大人になるまで。",
+  "original": "Boyhood",
+  "year": "2014",
+  "votes": 5686,
+  "nearMiss": false
+ },
+ "The Breakfast Club|1985": {
+  "id": 2108,
+  "title": "ブレックファスト・クラブ",
+  "original": "The Breakfast Club",
+  "year": "1985",
+  "votes": 8800,
+  "nearMiss": false
+ },
+ "Dead Poets Society|1989": {
+  "id": 207,
+  "title": "いまを生きる",
+  "original": "Dead Poets Society",
+  "year": "1989",
+  "votes": 13096,
+  "nearMiss": false
+ },
+ "Moonlight|2016": {
+  "id": 376867,
+  "title": "ムーンライト",
+  "original": "Moonlight",
+  "year": "2016",
+  "votes": 7740,
+  "nearMiss": false
+ },
+ "Eighth Grade|2018": {
+  "id": 489925,
+  "title": "エイス・グレード 世界でいちばんクールな私へ",
+  "original": "Eighth Grade",
+  "year": "2018",
+  "votes": 1732,
+  "nearMiss": false
+ },
+ "The Perks of Being a Wallflower|2012": {
+  "id": 84892,
+  "title": "ウォールフラワー",
+  "original": "The Perks of Being a Wallflower",
+  "year": "2012",
+  "votes": 11563,
+  "nearMiss": false
+ },
+ "Submarine|2010": {
+  "id": 49020,
+  "title": "サブマリン",
+  "original": "Submarine",
+  "year": "2011",
+  "votes": 1660,
+  "nearMiss": false
+ },
+ "Dazed and Confused|1993": {
+  "id": 9571,
+  "title": "バッド・チューニング",
+  "original": "Dazed and Confused",
+  "year": "1993",
+  "votes": 2390,
+  "nearMiss": false
+ },
+ "Whisper of the Heart|1995": {
+  "id": 37797,
+  "title": "耳をすませば",
+  "original": "耳をすませば",
+  "year": "1995",
+  "votes": 2388,
+  "nearMiss": false
+ },
+ "Mid90s|2018": {
+  "id": 437586,
+  "title": "mid90s ミッドナインティーズ",
+  "original": "mid90s",
+  "year": "2018",
+  "votes": 1883,
+  "nearMiss": false
+ },
+ "Inglourious Basterds|2009": {
+  "id": 16869,
+  "title": "イングロリアス・バスターズ",
+  "original": "Inglourious Basterds",
+  "year": "2009",
+  "votes": 25012,
+  "nearMiss": false
+ },
+ "There Will Be Blood|2007": {
+  "id": 7345,
+  "title": "ゼア・ウィル・ビー・ブラッド",
+  "original": "There Will Be Blood",
+  "year": "2007",
+  "votes": 7820,
+  "nearMiss": false
+ },
+ "Misery|1990": {
+  "id": 1700,
+  "title": "ミザリー",
+  "original": "Misery",
+  "year": "1990",
+  "votes": 5493,
+  "nearMiss": false
+ },
+ "Training Day|2001": {
+  "id": 2034,
+  "title": "トレーニング デイ",
+  "original": "Training Day",
+  "year": "2001",
+  "votes": 6946,
+  "nearMiss": false
+ },
+ "Joker|2019": {
+  "id": 475557,
+  "title": "ジョーカー",
+  "original": "Joker",
+  "year": "2019",
+  "votes": 28571,
+  "nearMiss": false
+ },
+ "Die Hard|1988": {
+  "id": 562,
+  "title": "ダイ・ハード",
+  "original": "Die Hard",
+  "year": "1988",
+  "votes": 12783,
+  "nearMiss": false
+ },
+ "I Saw the Devil|2010": {
+  "id": 49797,
+  "title": "悪魔を見た",
+  "original": "악마를 보았다",
+  "year": "2010",
+  "votes": 3205,
+  "nearMiss": false
+ },
+ "Cape Fear|1991": {
+  "id": 1598,
+  "title": "ケープ・フィアー",
+  "original": "Cape Fear",
+  "year": "1991",
+  "votes": 4065,
+  "nearMiss": false
+ },
+ "Gravity|2013": {
+  "id": 49047,
+  "title": "ゼロ・グラビティ",
+  "original": "Gravity",
+  "year": "2013",
+  "votes": 16810,
+  "nearMiss": false
+ },
+ "The Martian|2015": {
+  "id": 286217,
+  "title": "オデッセイ",
+  "original": "The Martian",
+  "year": "2015",
+  "votes": 22012,
+  "nearMiss": false
+ },
+ "Apollo 13|1995": {
+  "id": 568,
+  "title": "アポロ13",
+  "original": "Apollo 13",
+  "year": "1995",
+  "votes": 6180,
+  "nearMiss": false
+ },
+ "First Man|2018": {
+  "id": 369972,
+  "title": "ファースト・マン",
+  "original": "First Man",
+  "year": "2018",
+  "votes": 5862,
+  "nearMiss": false
+ },
+ "Ad Astra|2019": {
+  "id": 419704,
+  "title": "アド・アストラ",
+  "original": "Ad Astra",
+  "year": "2019",
+  "votes": 7502,
+  "nearMiss": false
+ },
+ "Sunshine|2007": {
+  "id": 773,
+  "title": "リトル・ミス・サンシャイン",
+  "original": "Little Miss Sunshine",
+  "year": "2006",
+  "votes": 8167,
+  "nearMiss": false
+ },
+ "Solaris|1972": {
+  "id": 593,
+  "title": "惑星ソラリス",
+  "original": "Солярис",
+  "year": "1972",
+  "votes": 1929,
+  "nearMiss": false
+ },
+ "Contact|1997": {
+  "id": 686,
+  "title": "コンタクト",
+  "original": "Contact",
+  "year": "1997",
+  "votes": 5250,
+  "nearMiss": false
+ },
+ "Hidden Figures|2016": {
+  "id": 381284,
+  "title": "ドリーム",
+  "original": "Hidden Figures",
+  "year": "2016",
+  "votes": 10781,
+  "nearMiss": false
+ },
+ "Wall·E|2008": {
+  "id": 10681,
+  "title": "ウォーリー",
+  "original": "WALL·E",
+  "year": "2008",
+  "votes": 21078,
+  "nearMiss": false
+ },
+ "Paddington|2014": {
+  "id": 116149,
+  "title": "パディントン",
+  "original": "Paddington",
+  "year": "2014",
+  "votes": 4411,
+  "nearMiss": false
+ },
+ "The Iron Giant|1999": {
+  "id": 10386,
+  "title": "アイアン・ジャイアント",
+  "original": "The Iron Giant",
+  "year": "1999",
+  "votes": 6433,
+  "nearMiss": false
+ },
+ "Home Alone|1990": {
+  "id": 771,
+  "title": "ホーム・アローン",
+  "original": "Home Alone",
+  "year": "1990",
+  "votes": 12982,
+  "nearMiss": false
+ },
+ "The Goonies|1985": {
+  "id": 9340,
+  "title": "グーニーズ",
+  "original": "The Goonies",
+  "year": "1985",
+  "votes": 6472,
+  "nearMiss": false
+ },
+ "Hugo|2011": {
+  "id": 44826,
+  "title": "ヒューゴの不思議な発明",
+  "original": "Hugo",
+  "year": "2011",
+  "votes": 7884,
+  "nearMiss": false
+ },
+ "Matilda|1996": {
+  "id": 10830,
+  "title": "マチルダ",
+  "original": "Matilda",
+  "year": "1996",
+  "votes": 5006,
+  "nearMiss": false
+ },
+ "Babe|1995": {
+  "id": 9598,
+  "title": "ベイブ",
+  "original": "Babe",
+  "year": "1995",
+  "votes": 3239,
+  "nearMiss": false
+ },
+ "The Princess Bride|1987": {
+  "id": 2493,
+  "title": "プリンセス・ブライド・ストーリー",
+  "original": "The Princess Bride",
+  "year": "1987",
+  "votes": 5354,
+  "nearMiss": false
+ },
+ "The Sound of Music|1965": {
+  "id": 15121,
+  "title": "サウンド・オブ・ミュージック",
+  "original": "The Sound of Music",
+  "year": "1965",
+  "votes": 3782,
+  "nearMiss": false
+ },
+ "The Mitchells vs. the Machines|2021": {
+  "id": 501929,
+  "title": "ミッチェル家とマシンの反乱",
+  "original": "The Mitchells vs. the Machines",
+  "year": "2021",
+  "votes": 3550,
+  "nearMiss": false
+ },
+ "Birdman or (The Unexpected Virtue of Ignorance)|2014": {
+  "id": 194662,
+  "title": "バードマン あるいは（無知がもたらす予期せぬ奇跡）",
+  "original": "Birdman or (The Unexpected Virtue of Ignorance)",
+  "year": "2014",
+  "votes": 13940,
+  "nearMiss": false
+ },
+ "Victoria|2015": {
+  "id": 320007,
+  "title": "ヴィクトリア",
+  "original": "Victoria",
+  "year": "2015",
+  "votes": 1418,
+  "nearMiss": false
+ },
+ "Rope|1948": {
+  "id": 1580,
+  "title": "ロープ",
+  "original": "Rope",
+  "year": "1948",
+  "votes": 3124,
+  "nearMiss": false
+ },
+ "Russian Ark|2002": {
+  "id": 16646,
+  "title": "エルミタージュ幻想",
+  "original": "Русский ковчег",
+  "year": "2002",
+  "votes": 524,
+  "nearMiss": false
+ },
+ "Boiling Point|2021": {
+  "id": 807196,
+  "title": "ボイリング・ポイント／沸騰",
+  "original": "Boiling Point",
+  "year": "2021",
+  "votes": 822,
+  "nearMiss": false
+ },
+ "One Cut of the Dead|2017": {
+  "id": 513434,
+  "title": "カメラを止めるな！",
+  "original": "カメラを止めるな！",
+  "year": "2017",
+  "votes": 1056,
+  "nearMiss": false
+ },
+ "Utøya: July 22|2018": {
+  "id": 500006,
+  "title": "ウトヤ島、7月22日",
+  "original": "Utøya 22. juli",
+  "year": "2018",
+  "votes": 471,
+  "nearMiss": false
+ },
+ "Atonement|2007": {
+  "id": 4347,
+  "title": "つぐない",
+  "original": "Atonement",
+  "year": "2007",
+  "votes": 4883,
+  "nearMiss": false
+ },
+ "The Player|1992": {
+  "id": 10403,
+  "title": "ザ・プレイヤー",
+  "original": "The Player",
+  "year": "1992",
+  "votes": 1002,
+  "nearMiss": false
+ },
+ "The Tree of Life|2011": {
+  "id": 8967,
+  "title": "ツリー・オブ・ライフ",
+  "original": "The Tree of Life",
+  "year": "2011",
+  "votes": 3451,
+  "nearMiss": false
+ },
+ "Lawrence of Arabia|1962": {
+  "id": 947,
+  "title": "アラビアのロレンス",
+  "original": "Lawrence of Arabia",
+  "year": "1962",
+  "votes": 3641,
+  "nearMiss": false
+ },
+ "Barry Lyndon|1975": {
+  "id": 3175,
+  "title": "バリー・リンドン",
+  "original": "Barry Lyndon",
+  "year": "1975",
+  "votes": 3327,
+  "nearMiss": false
+ },
+ "Roma|2018": {
+  "id": 426426,
+  "title": "ROMA/ローマ",
+  "original": "Roma",
+  "year": "2018",
+  "votes": 4207,
+  "nearMiss": false
+ },
+ "The Revenant|2015": {
+  "id": 281957,
+  "title": "レヴェナント：蘇えりし者",
+  "original": "The Revenant",
+  "year": "2015",
+  "votes": 19862,
+  "nearMiss": false
+ },
+ "Days of Heaven|1978": {
+  "id": 16642,
+  "title": "天国の日々",
+  "original": "Days of Heaven",
+  "year": "1978",
+  "votes": 1223,
+  "nearMiss": false
+ },
+ "Baraka|1992": {
+  "id": 14002,
+  "title": "Baraka",
+  "original": "Baraka",
+  "year": "1992",
+  "votes": 729,
+  "nearMiss": false
+ },
+ "Pan's Labyrinth|2006": {
+  "id": 1417,
+  "title": "パンズ・ラビリンス",
+  "original": "El laberinto del fauno",
+  "year": "2006",
+  "votes": 11854,
+  "nearMiss": false
+ },
+ "The Northman|2022": {
+  "id": 639933,
+  "title": "ノースマン 導かれし復讐者",
+  "original": "The Northman",
+  "year": "2022",
+  "votes": 5361,
+  "nearMiss": false
+ },
+ "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb|1964": {
+  "id": 935,
+  "title": "博士の異常な愛情 または私は如何にして心配するのを止めて水爆を愛するようになったか",
+  "original": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "year": "1964",
+  "votes": 6438,
+  "nearMiss": false
+ },
+ "Fargo|1996": {
+  "id": 275,
+  "title": "ファーゴ",
+  "original": "Fargo",
+  "year": "1996",
+  "votes": 9522,
+  "nearMiss": false
+ },
+ "The Lobster|2015": {
+  "id": 254320,
+  "title": "ロブスター",
+  "original": "The Lobster",
+  "year": "2015",
+  "votes": 7162,
+  "nearMiss": false
+ },
+ "In Bruges|2008": {
+  "id": 8321,
+  "title": "ヒットマンズ・レクイエム",
+  "original": "In Bruges",
+  "year": "2008",
+  "votes": 6048,
+  "nearMiss": false
+ },
+ "Burn After Reading|2008": {
+  "id": 4944,
+  "title": "バーン・アフター・リーディング",
+  "original": "Burn After Reading",
+  "year": "2008",
+  "votes": 5461,
+  "nearMiss": false
+ },
+ "The Death of Stalin|2017": {
+  "id": 402897,
+  "title": "スターリンの葬送狂騒曲",
+  "original": "The Death of Stalin",
+  "year": "2017",
+  "votes": 2268,
+  "nearMiss": false
+ },
+ "Three Billboards Outside Ebbing, Missouri|2017": {
+  "id": 359940,
+  "title": "スリー・ビルボード",
+  "original": "Three Billboards Outside Ebbing, Missouri",
+  "year": "2017",
+  "votes": 11279,
+  "nearMiss": false
+ },
+ "Heathers|1988": {
+  "id": 2640,
+  "title": "ヘザース／ベロニカの熱い日",
+  "original": "Heathers",
+  "year": "1989",
+  "votes": 1977,
+  "nearMiss": false
+ },
+ "Sorry to Bother You|2018": {
+  "id": 424781,
+  "title": "ホワイト･ボイス",
+  "original": "Sorry to Bother You",
+  "year": "2018",
+  "votes": 1876,
+  "nearMiss": false
+ },
+ "Triangle of Sadness|2022": {
+  "id": 497828,
+  "title": "逆転のトライアングル",
+  "original": "Triangle of Sadness",
+  "year": "2022",
+  "votes": 3083,
+  "nearMiss": false
+ },
+ "Kind Hearts and Coronets|1949": {
+  "id": 11898,
+  "title": "カインド・ハート",
+  "original": "Kind Hearts and Coronets",
+  "year": "1949",
+  "votes": 635,
+  "nearMiss": false
+ },
+ "Four Lions|2010": {
+  "id": 37495,
+  "title": "フォー・ライオンズ",
+  "original": "Four Lions",
+  "year": "2010",
+  "votes": 1351,
+  "nearMiss": false
+ },
+ "Bad Lands|2023": {
+  "id": 1133602,
+  "title": "BAD LANDS バッド・ランズ",
+  "original": "BAD LANDS バッド・ランズ",
+  "year": "2023",
+  "votes": 28,
+  "nearMiss": false
+ },
+ "Eraserhead|1977": {
+  "id": 985,
+  "title": "イレイザーヘッド",
+  "original": "Eraserhead",
+  "year": "1977",
+  "votes": 2874,
+  "nearMiss": false
+ },
+ "Mulholland Drive|2001": {
+  "id": 1018,
+  "title": "マルホランド・ドライブ",
+  "original": "Mulholland Drive",
+  "year": "2001",
+  "votes": 7377,
+  "nearMiss": false
+ },
+ "Being John Malkovich|1999": {
+  "id": 492,
+  "title": "マルコヴィッチの穴",
+  "original": "Being John Malkovich",
+  "year": "1999",
+  "votes": 5015,
+  "nearMiss": false
+ },
+ "The Holy Mountain|1973": {
+  "id": 8327,
+  "title": "ホーリー・マウンテン",
+  "original": "La montaña sagrada",
+  "year": "1973",
+  "votes": 1077,
+  "nearMiss": false
+ },
+ "Brazil|1985": {
+  "id": 68,
+  "title": "未来世紀ブラジル",
+  "original": "Brazil",
+  "year": "1985",
+  "votes": 3870,
+  "nearMiss": false
+ },
+ "Synecdoche, New York|2008": {
+  "id": 4960,
+  "title": "脳内ニューヨーク",
+  "original": "Synecdoche, New York",
+  "year": "2008",
+  "votes": 1699,
+  "nearMiss": false
+ },
+ "Dogtooth|2009": {
+  "id": 38810,
+  "title": "籠の中の乙女",
+  "original": "Κυνόδοντας",
+  "year": "2009",
+  "votes": 2721,
+  "nearMiss": false
+ },
+ "Swiss Army Man|2016": {
+  "id": 347031,
+  "title": "スイス・アーミー・マン",
+  "original": "Swiss Army Man",
+  "year": "2016",
+  "votes": 3951,
+  "nearMiss": false
+ },
+ "Enemy|2013": {
+  "id": 181886,
+  "title": "複製された男",
+  "original": "Enemy",
+  "year": "2014",
+  "votes": 6663,
+  "nearMiss": false
+ },
+ "Under the Skin|2013": {
+  "id": 97370,
+  "title": "アンダー・ザ・スキン 種の捕食",
+  "original": "Under the Skin",
+  "year": "2014",
+  "votes": 3988,
+  "nearMiss": false
+ },
+ "Paprika|2006": {
+  "id": 4977,
+  "title": "パプリカ",
+  "original": "パプリカ",
+  "year": "2006",
+  "votes": 3040,
+  "nearMiss": false
+ },
+ "Beau Is Afraid|2023": {
+  "id": 798286,
+  "title": "ボーはおそれている",
+  "original": "Beau Is Afraid",
+  "year": "2023",
+  "votes": 1440,
+  "nearMiss": false
+ },
+ "The Lighthouse|2019": {
+  "id": 503919,
+  "title": "ライトハウス",
+  "original": "The Lighthouse",
+  "year": "2019",
+  "votes": 5865,
+  "nearMiss": false
+ },
+ "Mind Game|2004": {
+  "id": 21712,
+  "title": "マインド・ゲーム",
+  "original": "マインド・ゲーム",
+  "year": "2004",
+  "votes": 353,
+  "nearMiss": false
+ },
+ "Akira|1988": {
+  "id": 149,
+  "title": "AKIRA",
+  "original": "AKIRA",
+  "year": "1988",
+  "votes": 5081,
+  "nearMiss": false
+ },
+ "Ghost in the Shell|1995": {
+  "id": 9323,
+  "title": "GHOST IN THE SHELL / 攻殻機動隊",
+  "original": "GHOST IN THE SHELL / 攻殻機動隊",
+  "year": "1995",
+  "votes": 4112,
+  "nearMiss": false
+ },
+ "Minority Report|2002": {
+  "id": 180,
+  "title": "マイノリティ・リポート",
+  "original": "Minority Report",
+  "year": "2002",
+  "votes": 10051,
+  "nearMiss": false
+ },
+ "Dredd|2012": {
+  "id": 49049,
+  "title": "ジャッジ・ドレッド",
+  "original": "Dredd",
+  "year": "2012",
+  "votes": 5786,
+  "nearMiss": false
+ },
+ "Strange Days|1995": {
+  "id": 281,
+  "title": "ストレンジ・デイズ/1999年12月31日",
+  "original": "Strange Days",
+  "year": "1995",
+  "votes": 1635,
+  "nearMiss": false
+ },
+ "Total Recall|1990": {
+  "id": 861,
+  "title": "トータル・リコール",
+  "original": "Total Recall",
+  "year": "1990",
+  "votes": 6767,
+  "nearMiss": false
+ },
+ "Alita: Battle Angel|2019": {
+  "id": 399579,
+  "title": "アリータ：バトル・エンジェル",
+  "original": "Alita: Battle Angel",
+  "year": "2019",
+  "votes": 10478,
+  "nearMiss": false
+ },
+ "Upgrade|2018": {
+  "id": 500664,
+  "title": "アップグレード",
+  "original": "Upgrade",
+  "year": "2018",
+  "votes": 5331,
+  "nearMiss": false
+ },
+ "Tron: Legacy|2010": {
+  "id": 20526,
+  "title": "トロン：レガシー",
+  "original": "TRON: Legacy",
+  "year": "2010",
+  "votes": 8236,
+  "nearMiss": false
+ },
+ "RoboCop|1987": {
+  "id": 5548,
+  "title": "ロボコップ",
+  "original": "RoboCop",
+  "year": "1987",
+  "votes": 6039,
+  "nearMiss": false
+ },
+ "Tetsuo: The Iron Man|1989": {
+  "id": 41428,
+  "title": "鉄男",
+  "original": "鉄男",
+  "year": "1989",
+  "votes": 746,
+  "nearMiss": false
+ },
+ "Suspiria|1977": {
+  "id": 11906,
+  "title": "サスペリア",
+  "original": "Suspiria",
+  "year": "1977",
+  "votes": 3296,
+  "nearMiss": false
+ },
+ "The Umbrellas of Cherbourg|1964": {
+  "id": 5967,
+  "title": "シェルブールの雨傘",
+  "original": "Les Parapluies de Cherbourg",
+  "year": "1964",
+  "votes": 920,
+  "nearMiss": false
+ },
+ "Asteroid City|2023": {
+  "id": 747188,
+  "title": "アステロイド・シティ",
+  "original": "Asteroid City",
+  "year": "2023",
+  "votes": 2686,
+  "nearMiss": false
+ },
+ "Crimson Peak|2015": {
+  "id": 201085,
+  "title": "クリムゾン・ピーク",
+  "original": "Crimson Peak",
+  "year": "2015",
+  "votes": 5400,
+  "nearMiss": false
+ },
+ "Pleasantville|1998": {
+  "id": 2657,
+  "title": "カラー・オブ・ハート",
+  "original": "Pleasantville",
+  "year": "1998",
+  "votes": 1985,
+  "nearMiss": false
+ },
+ "Pierrot le Fou|1965": {
+  "id": 2786,
+  "title": "気狂いピエロ",
+  "original": "Pierrot le fou",
+  "year": "1965",
+  "votes": 979,
+  "nearMiss": false
+ },
+ "Only God Forgives|2013": {
+  "id": 77987,
+  "title": "オンリー・ゴッド",
+  "original": "Only God Forgives",
+  "year": "2013",
+  "votes": 2662,
+  "nearMiss": false
+ },
+ "Tokyo Story|1953": {
+  "id": 18148,
+  "title": "東京物語",
+  "original": "東京物語",
+  "year": "1953",
+  "votes": 1276,
+  "nearMiss": false
+ },
+ "Rashomon|1950": {
+  "id": 548,
+  "title": "羅生門",
+  "original": "羅生門",
+  "year": "1950",
+  "votes": 2646,
+  "nearMiss": false
+ },
+ "Ikiru|1952": {
+  "id": 3782,
+  "title": "生きる",
+  "original": "生きる",
+  "year": "1952",
+  "votes": 1418,
+  "nearMiss": false
+ },
+ "Harakiri|1962": {
+  "id": 14537,
+  "title": "切腹",
+  "original": "切腹",
+  "year": "1962",
+  "votes": 1309,
+  "nearMiss": false
+ },
+ "Ugetsu|1953": {
+  "id": 14696,
+  "title": "雨月物語",
+  "original": "雨月物語",
+  "year": "1953",
+  "votes": 676,
+  "nearMiss": false
+ },
+ "Late Spring|1949": {
+  "id": 20530,
+  "title": "晩春",
+  "original": "晩春",
+  "year": "1949",
+  "votes": 501,
+  "nearMiss": false
+ },
+ "High and Low|1963": {
+  "id": 12493,
+  "title": "天国と地獄",
+  "original": "天国と地獄",
+  "year": "1963",
+  "votes": 1223,
+  "nearMiss": false
+ },
+ "Yojimbo|1961": {
+  "id": 11878,
+  "title": "用心棒",
+  "original": "用心棒",
+  "year": "1961",
+  "votes": 1779,
+  "nearMiss": false
+ },
+ "Woman in the Dunes|1964": {
+  "id": 16672,
+  "title": "砂の女",
+  "original": "砂の女",
+  "year": "1964",
+  "votes": 554,
+  "nearMiss": false
+ },
+ "Floating Weeds|1959": {
+  "id": 46918,
+  "title": "浮草",
+  "original": "浮草",
+  "year": "1959",
+  "votes": 209,
+  "nearMiss": false
+ },
+ "Sansho the Bailiff|1954": {
+  "id": 20532,
+  "title": "山椒大夫",
+  "original": "山椒大夫",
+  "year": "1954",
+  "votes": 444,
+  "nearMiss": false
+ },
+ "Kwaidan|1964": {
+  "id": 30959,
+  "title": "怪談",
+  "original": "怪談",
+  "year": "1965",
+  "votes": 484,
+  "nearMiss": false
+ },
+ "Battles Without Honor and Humanity|1973": {
+  "id": 34326,
+  "title": "仁義なき戦い",
+  "original": "仁義なき戦い",
+  "year": "1973",
+  "votes": 128,
+  "nearMiss": false
+ },
+ "Shoplifters|2018": {
+  "id": 505192,
+  "title": "万引き家族",
+  "original": "万引き家族",
+  "year": "2018",
+  "votes": 2399,
+  "nearMiss": false
+ },
+ "Drive My Car|2021": {
+  "id": 758866,
+  "title": "ドライブ・マイ・カー",
+  "original": "ドライブ・マイ・カー",
+  "year": "2021",
+  "votes": 1586,
+  "nearMiss": false
+ },
+ "Shin Godzilla|2016": {
+  "id": 315011,
+  "title": "シン・ゴジラ",
+  "original": "シン・ゴジラ",
+  "year": "2016",
+  "votes": 1684,
+  "nearMiss": false
+ },
+ "Departures|2008": {
+  "id": 16804,
+  "title": "おくりびと",
+  "original": "おくりびと",
+  "year": "2008",
+  "votes": 971,
+  "nearMiss": false
+ },
+ "Still Walking|2008": {
+  "id": 25050,
+  "title": "歩いても 歩いても",
+  "original": "歩いても 歩いても",
+  "year": "2008",
+  "votes": 473,
+  "nearMiss": false
+ },
+ "Nobody Knows|2004": {
+  "id": 2517,
+  "title": "誰も知らない",
+  "original": "誰も知らない",
+  "year": "2004",
+  "votes": 695,
+  "nearMiss": false
+ },
+ "Evil Does Not Exist|2023": {
+  "id": 1156125,
+  "title": "悪は存在しない",
+  "original": "悪は存在しない",
+  "year": "2023",
+  "votes": 327,
+  "nearMiss": false
+ },
+ "Love Exposure|2008": {
+  "id": 28422,
+  "title": "愛のむきだし",
+  "original": "愛のむきだし",
+  "year": "2008",
+  "votes": 553,
+  "nearMiss": false
+ },
+ "Shall We Dance?|1996": {
+  "id": 11239,
+  "title": "Shall we ダンス?",
+  "original": "Shall we ダンス?",
+  "year": "1996",
+  "votes": 189,
+  "nearMiss": false
+ },
+ "Battle Royale|2000": {
+  "id": 3176,
+  "title": "バトル・ロワイアル",
+  "original": "バトル・ロワイアル",
+  "year": "2000",
+  "votes": 3996,
+  "nearMiss": false
+ },
+ "Hana-bi|1997": {
+  "id": 5910,
+  "title": "HANA-BI",
+  "original": "HANA-BI",
+  "year": "1997",
+  "votes": 818,
+  "nearMiss": false
+ },
+ "All the Long Nights|2024": {
+  "id": 1086011,
+  "title": "夜明けのすべて",
+  "original": "夜明けのすべて",
+  "year": "2024",
+  "votes": 39,
+  "nearMiss": false
+ },
+ "Train to Busan|2016": {
+  "id": 396535,
+  "title": "新感染 ファイナル・エクスプレス",
+  "original": "부산행",
+  "year": "2016",
+  "votes": 8865,
+  "nearMiss": false
+ },
+ "A Taxi Driver|2017": {
+  "id": 437068,
+  "title": "タクシー運転手 約束は海を越えて",
+  "original": "택시운전사",
+  "year": "2017",
+  "votes": 1242,
+  "nearMiss": false
+ },
+ "The Chaser|2008": {
+  "id": 13855,
+  "title": "チェイサー",
+  "original": "추격자",
+  "year": "2008",
+  "votes": 1663,
+  "nearMiss": false
+ },
+ "Minari|2020": {
+  "id": 615643,
+  "title": "ミナリ",
+  "original": "Minari",
+  "year": "2020",
+  "votes": 2044,
+  "nearMiss": false
+ },
+ "Spring, Summer, Fall, Winter... and Spring|2003": {
+  "id": 113,
+  "title": "春夏秋冬そして春",
+  "original": "봄 여름 가을 겨울 그리고 봄",
+  "year": "2003",
+  "votes": 1258,
+  "nearMiss": false
+ },
+ "Exhuma|2024": {
+  "id": 838209,
+  "title": "破墓／パミョ",
+  "original": "파묘",
+  "year": "2024",
+  "votes": 853,
+  "nearMiss": false
+ },
+ "La Haine|1995": {
+  "id": 406,
+  "title": "憎しみ",
+  "original": "La Haine",
+  "year": "1995",
+  "votes": 4763,
+  "nearMiss": false
+ },
+ "Breathless|1960": {
+  "id": 269,
+  "title": "勝手にしやがれ",
+  "original": "À bout de souffle",
+  "year": "1960",
+  "votes": 2112,
+  "nearMiss": false
+ },
+ "The 400 Blows|1959": {
+  "id": 147,
+  "title": "大人は判ってくれない",
+  "original": "Les Quatre Cents Coups",
+  "year": "1959",
+  "votes": 2413,
+  "nearMiss": false
+ },
+ "Les Diaboliques|1955": {
+  "id": 827,
+  "title": "悪魔のような女",
+  "original": "Les Diaboliques",
+  "year": "1955",
+  "votes": 1148,
+  "nearMiss": false
+ },
+ "Blue Is the Warmest Color|2013": {
+  "id": 152584,
+  "title": "アデル、ブルーは熱い色",
+  "original": "La Vie d'Adèle - Chapitres 1 et 2",
+  "year": "2013",
+  "votes": 4980,
+  "nearMiss": false
+ },
+ "Playtime|1967": {
+  "id": 10227,
+  "title": "プレイタイム",
+  "original": "PlayTime",
+  "year": "1967",
+  "votes": 705,
+  "nearMiss": false
+ },
+ "Delicatessen|1991": {
+  "id": 892,
+  "title": "デリカテッセン",
+  "original": "Delicatessen",
+  "year": "1991",
+  "votes": 1707,
+  "nearMiss": false
+ },
+ "La Vie en Rose|2007": {
+  "id": 1407,
+  "title": "エディット・ピアフ～愛の讃歌～",
+  "original": "La Môme",
+  "year": "2007",
+  "votes": 1788,
+  "nearMiss": false
+ },
+ "Titane|2021": {
+  "id": 630240,
+  "title": "TITANE/チタン",
+  "original": "Titane",
+  "year": "2021",
+  "votes": 1775,
+  "nearMiss": false
+ },
+ "Raw|2016": {
+  "id": 393519,
+  "title": "RAW 少女のめざめ",
+  "original": "Grave",
+  "year": "2017",
+  "votes": 3519,
+  "nearMiss": false
+ },
+ "Trainspotting|1996": {
+  "id": 627,
+  "title": "トレインスポッティング",
+  "original": "Trainspotting",
+  "year": "1996",
+  "votes": 10784,
+  "nearMiss": false
+ },
+ "The King's Speech|2010": {
+  "id": 45269,
+  "title": "英国王のスピーチ",
+  "original": "The King's Speech",
+  "year": "2010",
+  "votes": 9604,
+  "nearMiss": false
+ },
+ "Lock, Stock and Two Smoking Barrels|1998": {
+  "id": 100,
+  "title": "ロック、ストック&トゥー・スモーキング・バレルズ",
+  "original": "Lock, Stock and Two Smoking Barrels",
+  "year": "1998",
+  "votes": 7483,
+  "nearMiss": false
+ },
+ "Snatch|2000": {
+  "id": 107,
+  "title": "スナッチ",
+  "original": "Snatch",
+  "year": "2000",
+  "votes": 10404,
+  "nearMiss": false
+ },
+ "Pride|2014": {
+  "id": 234200,
+  "title": "パレードへようこそ",
+  "original": "Pride",
+  "year": "2014",
+  "votes": 1458,
+  "nearMiss": false
+ },
+ "The Full Monty|1997": {
+  "id": 9427,
+  "title": "フル・モンティ",
+  "original": "The Full Monty",
+  "year": "1997",
+  "votes": 1872,
+  "nearMiss": false
+ },
+ "Billy Elliot|2000": {
+  "id": 71,
+  "title": "リトル・ダンサー",
+  "original": "Billy Elliot",
+  "year": "2000",
+  "votes": 4209,
+  "nearMiss": false
+ },
+ "Four Weddings and a Funeral|1994": {
+  "id": 712,
+  "title": "フォー・ウェディング",
+  "original": "Four Weddings and a Funeral",
+  "year": "1994",
+  "votes": 3112,
+  "nearMiss": false
+ },
+ "Kes|1969": {
+  "id": 13384,
+  "title": "ケス",
+  "original": "Kes",
+  "year": "1970",
+  "votes": 467,
+  "nearMiss": false
+ },
+ "Withnail & I|1987": {
+  "id": 13446,
+  "title": "ウィズネイルと僕",
+  "original": "Withnail & I",
+  "year": "1987",
+  "votes": 649,
+  "nearMiss": false
+ },
+ "This Is England|2006": {
+  "id": 11798,
+  "title": "THIS IS ENGLAND",
+  "original": "This Is England",
+  "year": "2007",
+  "votes": 1486,
+  "nearMiss": false
+ },
+ "28 Days Later|2002": {
+  "id": 170,
+  "title": "28日後...",
+  "original": "28 Days Later",
+  "year": "2002",
+  "votes": 9006,
+  "nearMiss": false
+ },
+ "Attack the Block|2011": {
+  "id": 59678,
+  "title": "アタック・ザ・ブロック",
+  "original": "Attack the Block",
+  "year": "2011",
+  "votes": 2371,
+  "nearMiss": false
+ },
+ "The Worst Person in the World|2021": {
+  "id": 660120,
+  "title": "わたしは最悪。",
+  "original": "Verdens verste menneske",
+  "year": "2021",
+  "votes": 2010,
+  "nearMiss": false
+ },
+ "Let the Right One In|2008": {
+  "id": 13310,
+  "title": "ぼくのエリ 200歳の少女",
+  "original": "Låt den rätte komma in",
+  "year": "2008",
+  "votes": 3393,
+  "nearMiss": false
+ },
+ "Another Round|2020": {
+  "id": 580175,
+  "title": "アナザーラウンド",
+  "original": "Druk",
+  "year": "2020",
+  "votes": 3986,
+  "nearMiss": false
+ },
+ "Force Majeure|2014": {
+  "id": 265189,
+  "title": "フレンチアルプスで起きたこと",
+  "original": "Turist",
+  "year": "2014",
+  "votes": 1284,
+  "nearMiss": false
+ },
+ "Headhunters|2011": {
+  "id": 70670,
+  "title": "ヘッドハンター",
+  "original": "Hodejegerne",
+  "year": "2011",
+  "votes": 1443,
+  "nearMiss": false
+ },
+ "A Man Called Ove|2015": {
+  "id": 348678,
+  "title": "幸せなひとりぼっち",
+  "original": "En man som heter Ove",
+  "year": "2015",
+  "votes": 1391,
+  "nearMiss": false
+ },
+ "The Seventh Seal|1957": {
+  "id": 490,
+  "title": "第七の封印",
+  "original": "Det sjunde inseglet",
+  "year": "1957",
+  "votes": 3499,
+  "nearMiss": false
+ },
+ "Persona|1966": {
+  "id": 797,
+  "title": "仮面/ペルソナ",
+  "original": "Persona",
+  "year": "1966",
+  "votes": 2514,
+  "nearMiss": false
+ },
+ "Fanny and Alexander|1982": {
+  "id": 5961,
+  "title": "ファニーとアレクサンデル",
+  "original": "Fanny och Alexander",
+  "year": "1982",
+  "votes": 926,
+  "nearMiss": false
+ },
+ "Wild Strawberries|1957": {
+  "id": 614,
+  "title": "野いちご",
+  "original": "Smultronstället",
+  "year": "1957",
+  "votes": 1875,
+  "nearMiss": false
+ },
+ "Thelma|2017": {
+  "id": 401898,
+  "title": "テルマ",
+  "original": "Thelma",
+  "year": "2017",
+  "votes": 1185,
+  "nearMiss": false
+ },
+ "The Square|2017": {
+  "id": 401246,
+  "title": "ザ・スクエア 思いやりの聖域",
+  "original": "The Square",
+  "year": "2017",
+  "votes": 1805,
+  "nearMiss": false
+ },
+ "Oslo, August 31st|2011": {
+  "id": 75233,
+  "title": "オスロ、8月31日",
+  "original": "Oslo, 31. august",
+  "year": "2011",
+  "votes": 538,
+  "nearMiss": false
+ },
+ "Godland|2022": {
+  "id": 960206,
+  "title": "ゴッドランド／GODLAND",
+  "original": "Vanskabte land",
+  "year": "2022",
+  "votes": 216,
+  "nearMiss": false
+ },
+ "Lamb|2021": {
+  "id": 788929,
+  "title": "LAMB／ラム",
+  "original": "Dýrið",
+  "year": "2021",
+  "votes": 1103,
+  "nearMiss": false
+ },
+ "The Innocents|2021": {
+  "id": 660942,
+  "title": "イノセンツ",
+  "original": "De uskyldige",
+  "year": "2021",
+  "votes": 803,
+  "nearMiss": false
+ },
+ "RRR|2022": {
+  "id": 579974,
+  "title": "RRR",
+  "original": "రౌద్రం రణం రుధిరం",
+  "year": "2022",
+  "votes": 1732,
+  "nearMiss": false
+ },
+ "3 Idiots|2009": {
+  "id": 20453,
+  "title": "きっと、うまくいく",
+  "original": "3 Idiots",
+  "year": "2009",
+  "votes": 2880,
+  "nearMiss": false
+ },
+ "Dangal|2016": {
+  "id": 360814,
+  "title": "ダンガル きっと、つよくなる",
+  "original": "दंगल",
+  "year": "2016",
+  "votes": 1241,
+  "nearMiss": false
+ },
+ "Baahubali: The Beginning|2015": {
+  "id": 256040,
+  "title": "バーフバリ 伝説誕生",
+  "original": "బాహుబలి:ద బిగినింగ్",
+  "year": "2015",
+  "votes": 982,
+  "nearMiss": false
+ },
+ "Baahubali 2: The Conclusion|2017": {
+  "id": 350312,
+  "title": "バーフバリ 王の凱旋",
+  "original": "బాహుబలి 2: ది కన్ క్లూజన్",
+  "year": "2017",
+  "votes": 900,
+  "nearMiss": false
+ },
+ "Lagaan: Once Upon a Time in India|2001": {
+  "id": 19666,
+  "title": "ラガーン",
+  "original": "लगान",
+  "year": "2001",
+  "votes": 678,
+  "nearMiss": false
+ },
+ "Taare Zameen Par|2007": {
+  "id": 7508,
+  "title": "地上の星たち",
+  "original": "तारे ज़मीन पर",
+  "year": "2007",
+  "votes": 1439,
+  "nearMiss": false
+ },
+ "Gully Boy|2019": {
+  "id": 491625,
+  "title": "ガリーボーイ",
+  "original": "गल्ली बॉय",
+  "year": "2019",
+  "votes": 229,
+  "nearMiss": false
+ },
+ "PK|2014": {
+  "id": 297222,
+  "title": "PK／ピーケイ",
+  "original": "पीके",
+  "year": "2014",
+  "votes": 1228,
+  "nearMiss": false
+ },
+ "Andhadhun|2018": {
+  "id": 534780,
+  "title": "盲目のメロディ～インド式殺人狂騒曲～",
+  "original": "अंधाधुन",
+  "year": "2018",
+  "votes": 666,
+  "nearMiss": false
+ },
+ "Kantara|2022": {
+  "id": 858485,
+  "title": "ಕಾಂತಾರ",
+  "original": "ಕಾಂತಾರ",
+  "year": "2022",
+  "votes": 166,
+  "nearMiss": false
+ },
+ "Jai Bhim|2021": {
+  "id": 855400,
+  "title": "ஜெய் பீம்",
+  "original": "ஜெய் பீம்",
+  "year": "2021",
+  "votes": 260,
+  "nearMiss": false
+ },
+ "Tumbbad|2018": {
+  "id": 538858,
+  "title": "तुम्बाड",
+  "original": "तुम्बाड",
+  "year": "2018",
+  "votes": 371,
+  "nearMiss": false
+ },
+ "Drishyam|2015": {
+  "id": 352173,
+  "title": "ビジョン",
+  "original": "दृश्यम्",
+  "year": "2015",
+  "votes": 523,
+  "nearMiss": false
+ },
+ "Perfect Blue|1997": {
+  "id": 10494,
+  "title": "PERFECT BLUE",
+  "original": "PERFECT BLUE",
+  "year": "1998",
+  "votes": 3411,
+  "nearMiss": false
+ },
+ "Millennium Actress|2001": {
+  "id": 33320,
+  "title": "千年女優",
+  "original": "千年女優",
+  "year": "2002",
+  "votes": 1108,
+  "nearMiss": false
+ },
+ "Tokyo Godfathers|2003": {
+  "id": 13398,
+  "title": "東京ゴッドファーザーズ",
+  "original": "東京ゴッドファーザーズ",
+  "year": "2003",
+  "votes": 1587,
+  "nearMiss": false
+ },
+ "Weathering with You|2019": {
+  "id": 568160,
+  "title": "天気の子",
+  "original": "天気の子",
+  "year": "2019",
+  "votes": 2749,
+  "nearMiss": false
+ },
+ "Suzume|2022": {
+  "id": 916224,
+  "title": "すずめの戸締まり",
+  "original": "すずめの戸締まり",
+  "year": "2022",
+  "votes": 1883,
+  "nearMiss": false
+ },
+ "Wolf Children|2012": {
+  "id": 110420,
+  "title": "おおかみこどもの雨と雪",
+  "original": "おおかみこどもの雨と雪",
+  "year": "2012",
+  "votes": 2562,
+  "nearMiss": false
+ },
+ "Summer Wars|2009": {
+  "id": 28874,
+  "title": "サマーウォーズ",
+  "original": "サマーウォーズ",
+  "year": "2009",
+  "votes": 1087,
+  "nearMiss": false
+ },
+ "A Silent Voice|2016": {
+  "id": 378064,
+  "title": "映画 聲の形",
+  "original": "映画 聲の形",
+  "year": "2016",
+  "votes": 4744,
+  "nearMiss": false
+ },
+ "The First Slam Dunk|2022": {
+  "id": 783675,
+  "title": "THE FIRST SLAM DUNK",
+  "original": "THE FIRST SLAM DUNK",
+  "year": "2022",
+  "votes": 576,
+  "nearMiss": false
+ },
+ "In This Corner of the World|2016": {
+  "id": 378108,
+  "title": "この世界の片隅に",
+  "original": "この世界の片隅に",
+  "year": "2016",
+  "votes": 659,
+  "nearMiss": false
+ },
+ "Jin-Roh: The Wolf Brigade|1999": {
+  "id": 823,
+  "title": "人狼 JIN-ROH",
+  "original": "人狼 JIN-ROH",
+  "year": "1999",
+  "votes": 598,
+  "nearMiss": false
+ },
+ "Night Is Short, Walk On Girl|2017": {
+  "id": 430214,
+  "title": "夜は短し歩けよ乙女",
+  "original": "夜は短し歩けよ乙女",
+  "year": "2017",
+  "votes": 267,
+  "nearMiss": false
+ },
+ "Maquia: When the Promised Flower Blooms|2018": {
+  "id": 476292,
+  "title": "さよならの朝に約束の花をかざろう",
+  "original": "さよならの朝に約束の花をかざろう",
+  "year": "2018",
+  "votes": 745,
+  "nearMiss": false
+ },
+ "Inu-Oh|2021": {
+  "id": 642538,
+  "title": "犬王",
+  "original": "犬王",
+  "year": "2022",
+  "votes": 176,
+  "nearMiss": false
+ },
+ "Nausicaä of the Valley of the Wind|1984": {
+  "id": 81,
+  "title": "風の谷のナウシカ",
+  "original": "風の谷のナウシカ",
+  "year": "1984",
+  "votes": 4252,
+  "nearMiss": false
+ },
+ "Castle in the Sky|1986": {
+  "id": 10515,
+  "title": "天空の城ラピュタ",
+  "original": "天空の城ラピュタ",
+  "year": "1986",
+  "votes": 4853,
+  "nearMiss": false
+ },
+ "Only Yesterday|1991": {
+  "id": 15080,
+  "title": "おもひでぽろぽろ",
+  "original": "おもひでぽろぽろ",
+  "year": "1991",
+  "votes": 1310,
+  "nearMiss": false
+ },
+ "Porco Rosso|1992": {
+  "id": 11621,
+  "title": "紅の豚",
+  "original": "紅の豚",
+  "year": "1992",
+  "votes": 3866,
+  "nearMiss": false
+ },
+ "Pom Poko|1994": {
+  "id": 15283,
+  "title": "平成狸合戦ぽんぽこ",
+  "original": "平成狸合戦ぽんぽこ",
+  "year": "1994",
+  "votes": 1255,
+  "nearMiss": false
+ },
+ "Princess Mononoke|1997": {
+  "id": 128,
+  "title": "もののけ姫",
+  "original": "もののけ姫",
+  "year": "1997",
+  "votes": 9403,
+  "nearMiss": false
+ },
+ "My Neighbors the Yamadas|1999": {
+  "id": 16198,
+  "title": "ホーホケキョとなりの山田くん",
+  "original": "ホーホケキョ となりの山田くん",
+  "year": "1999",
+  "votes": 638,
+  "nearMiss": false
+ },
+ "The Cat Returns|2002": {
+  "id": 15370,
+  "title": "猫の恩返し",
+  "original": "猫の恩返し",
+  "year": "2002",
+  "votes": 2557,
+  "nearMiss": false
+ },
+ "Howl's Moving Castle|2004": {
+  "id": 4935,
+  "title": "ハウルの動く城",
+  "original": "ハウルの動く城",
+  "year": "2004",
+  "votes": 11599,
+  "nearMiss": false
+ },
+ "Tales from Earthsea|2006": {
+  "id": 37933,
+  "title": "ゲド戦記",
+  "original": "ゲド戦記",
+  "year": "2006",
+  "votes": 1554,
+  "nearMiss": false
+ },
+ "Ponyo|2008": {
+  "id": 12429,
+  "title": "崖の上のポニョ",
+  "original": "崖の上のポニョ",
+  "year": "2008",
+  "votes": 5036,
+  "nearMiss": false
+ },
+ "Arrietty|2010": {
+  "id": 51739,
+  "title": "借りぐらしのアリエッティ",
+  "original": "借りぐらしのアリエッティ",
+  "year": "2010",
+  "votes": 3318,
+  "nearMiss": false
+ },
+ "From Up on Poppy Hill|2011": {
+  "id": 83389,
+  "title": "コクリコ坂から",
+  "original": "コクリコ坂から",
+  "year": "2011",
+  "votes": 2022,
+  "nearMiss": false
+ },
+ "The Wind Rises|2013": {
+  "id": 149870,
+  "title": "風立ちぬ",
+  "original": "風立ちぬ",
+  "year": "2013",
+  "votes": 3524,
+  "nearMiss": false
+ },
+ "The Tale of The Princess Kaguya|2013": {
+  "id": 149871,
+  "title": "かぐや姫の物語",
+  "original": "かぐや姫の物語",
+  "year": "2013",
+  "votes": 2071,
+  "nearMiss": false
+ },
+ "When Marnie Was There|2014": {
+  "id": 242828,
+  "title": "思い出のマーニー",
+  "original": "思い出のマーニー",
+  "year": "2014",
+  "votes": 2039,
+  "nearMiss": false
+ },
+ "Earwig and the Witch|2020": {
+  "id": 683127,
+  "title": "アーヤと魔女",
+  "original": "アーヤと魔女",
+  "year": "2021",
+  "votes": 320,
+  "nearMiss": false
+ },
+ "Star Wars: Episode I - The Phantom Menace|1999": {
+  "id": 1893,
+  "title": "スター・ウォーズ エピソード１／ファントム・メナス",
+  "original": "Star Wars: Episode I - The Phantom Menace",
+  "year": "1999",
+  "votes": 16356,
+  "nearMiss": false
+ },
+ "Star Wars: Episode II - Attack of the Clones|2002": {
+  "id": 1894,
+  "title": "スター・ウォーズ エピソード２／クローンの攻撃",
+  "original": "Star Wars: Episode II - Attack of the Clones",
+  "year": "2002",
+  "votes": 14820,
+  "nearMiss": false
+ },
+ "Star Wars: Episode III - Revenge of the Sith|2005": {
+  "id": 1895,
+  "title": "スター・ウォーズ エピソード３／シスの復讐",
+  "original": "Star Wars: Episode III - Revenge of the Sith",
+  "year": "2005",
+  "votes": 15438,
+  "nearMiss": false
+ },
+ "Solo: A Star Wars Story|2018": {
+  "id": 348350,
+  "title": "ハン・ソロ／スター・ウォーズ・ストーリー",
+  "original": "Solo: A Star Wars Story",
+  "year": "2018",
+  "votes": 9602,
+  "nearMiss": false
+ },
+ "Rogue One: A Star Wars Story|2016": {
+  "id": 330459,
+  "title": "ローグ・ワン／スター・ウォーズ・ストーリー",
+  "original": "Rogue One: A Star Wars Story",
+  "year": "2016",
+  "votes": 16892,
+  "nearMiss": false
+ },
+ "Star Wars|1977": {
+  "id": 11,
+  "title": "スター・ウォーズ エピソード４／新たなる希望",
+  "original": "Star Wars",
+  "year": "1977",
+  "votes": 23064,
+  "nearMiss": false
+ },
+ "The Empire Strikes Back|1980": {
+  "id": 1891,
+  "title": "スター・ウォーズ エピソード５／帝国の逆襲",
+  "original": "The Empire Strikes Back",
+  "year": "1980",
+  "votes": 19027,
+  "nearMiss": false
+ },
+ "Return of the Jedi|1983": {
+  "id": 1892,
+  "title": "スター・ウォーズ エピソード６／ジェダイの帰還",
+  "original": "Return of the Jedi",
+  "year": "1983",
+  "votes": 17470,
+  "nearMiss": false
+ },
+ "Star Wars: The Force Awakens|2015": {
+  "id": 140607,
+  "title": "スター・ウォーズ／フォースの覚醒",
+  "original": "Star Wars: The Force Awakens",
+  "year": "2015",
+  "votes": 21057,
+  "nearMiss": false
+ },
+ "Star Wars: The Last Jedi|2017": {
+  "id": 181808,
+  "title": "スター・ウォーズ／最後のジェダイ",
+  "original": "Star Wars: The Last Jedi",
+  "year": "2017",
+  "votes": 16807,
+  "nearMiss": false
+ },
+ "Star Wars: The Rise of Skywalker|2019": {
+  "id": 181812,
+  "title": "スター・ウォーズ／スカイウォーカーの夜明け",
+  "original": "Star Wars: The Rise of Skywalker",
+  "year": "2019",
+  "votes": 11265,
+  "nearMiss": false
+ },
+ "Iron Man|2008": {
+  "id": 1726,
+  "title": "アイアンマン",
+  "original": "Iron Man",
+  "year": "2008",
+  "votes": 29054,
+  "nearMiss": false
+ },
+ "The Incredible Hulk|2008": {
+  "id": 1724,
+  "title": "インクレディブル・ハルク",
+  "original": "The Incredible Hulk",
+  "year": "2008",
+  "votes": 13280,
+  "nearMiss": false
+ },
+ "Iron Man 2|2010": {
+  "id": 10138,
+  "title": "アイアンマン2",
+  "original": "Iron Man 2",
+  "year": "2010",
+  "votes": 23119,
+  "nearMiss": false
+ },
+ "Thor|2011": {
+  "id": 10195,
+  "title": "マイティ・ソー",
+  "original": "Thor",
+  "year": "2011",
+  "votes": 22969,
+  "nearMiss": false
+ },
+ "Captain America: The First Avenger|2011": {
+  "id": 1771,
+  "title": "キャプテン・アメリカ／ザ・ファースト・アベンジャー",
+  "original": "Captain America: The First Avenger",
+  "year": "2011",
+  "votes": 23429,
+  "nearMiss": false
+ },
+ "The Avengers|2012": {
+  "id": 24428,
+  "title": "アベンジャーズ",
+  "original": "The Avengers",
+  "year": "2012",
+  "votes": 40134,
+  "nearMiss": false
+ },
+ "Iron Man 3|2013": {
+  "id": 68721,
+  "title": "アイアンマン3",
+  "original": "Iron Man 3",
+  "year": "2013",
+  "votes": 24051,
+  "nearMiss": false
+ },
+ "Thor: The Dark World|2013": {
+  "id": 76338,
+  "title": "マイティ・ソー／ダーク・ワールド",
+  "original": "Thor: The Dark World",
+  "year": "2013",
+  "votes": 18877,
+  "nearMiss": false
+ },
+ "Captain America: The Winter Soldier|2014": {
+  "id": 100402,
+  "title": "キャプテン・アメリカ／ウィンター・ソルジャー",
+  "original": "Captain America: The Winter Soldier",
+  "year": "2014",
+  "votes": 20639,
+  "nearMiss": false
+ },
+ "Guardians of the Galaxy|2014": {
+  "id": 118340,
+  "title": "ガーディアンズ・オブ・ギャラクシー",
+  "original": "Guardians of the Galaxy",
+  "year": "2014",
+  "votes": 30526,
+  "nearMiss": false
+ },
+ "Avengers: Age of Ultron|2015": {
+  "id": 99861,
+  "title": "アベンジャーズ／エイジ・オブ・ウルトロン",
+  "original": "Avengers: Age of Ultron",
+  "year": "2015",
+  "votes": 25229,
+  "nearMiss": false
+ },
+ "Ant-Man|2015": {
+  "id": 102899,
+  "title": "アントマン",
+  "original": "Ant-Man",
+  "year": "2015",
+  "votes": 21398,
+  "nearMiss": false
+ },
+ "Captain America: Civil War|2016": {
+  "id": 271110,
+  "title": "シビル・ウォー／キャプテン・アメリカ",
+  "original": "Captain America: Civil War",
+  "year": "2016",
+  "votes": 24758,
+  "nearMiss": false
+ },
+ "Doctor Strange|2016": {
+  "id": 284052,
+  "title": "ドクター・ストレンジ",
+  "original": "Doctor Strange",
+  "year": "2016",
+  "votes": 24109,
+  "nearMiss": false
+ },
+ "Guardians of the Galaxy Vol. 2|2017": {
+  "id": 283995,
+  "title": "ガーディアンズ・オブ・ギャラクシー：リミックス",
+  "original": "Guardians of the Galaxy Vol. 2",
+  "year": "2017",
+  "votes": 23637,
+  "nearMiss": false
+ },
+ "Spider-Man: Homecoming|2017": {
+  "id": 315635,
+  "title": "スパイダーマン：ホームカミング",
+  "original": "Spider-Man: Homecoming",
+  "year": "2017",
+  "votes": 24123,
+  "nearMiss": false
+ },
+ "Thor: Ragnarok|2017": {
+  "id": 284053,
+  "title": "マイティ・ソー バトルロイヤル",
+  "original": "Thor: Ragnarok",
+  "year": "2017",
+  "votes": 22666,
+  "nearMiss": false
+ },
+ "Black Panther|2018": {
+  "id": 284054,
+  "title": "ブラックパンサー",
+  "original": "Black Panther",
+  "year": "2018",
+  "votes": 24140,
+  "nearMiss": false
+ },
+ "Avengers: Infinity War|2018": {
+  "id": 299536,
+  "title": "アベンジャーズ／インフィニティ・ウォー",
+  "original": "Avengers: Infinity War",
+  "year": "2018",
+  "votes": 33236,
+  "nearMiss": false
+ },
+ "Ant-Man and the Wasp|2018": {
+  "id": 363088,
+  "title": "アントマン&ワスプ",
+  "original": "Ant-Man and the Wasp",
+  "year": "2018",
+  "votes": 14627,
+  "nearMiss": false
+ },
+ "Captain Marvel|2019": {
+  "id": 299537,
+  "title": "キャプテン・マーベル",
+  "original": "Captain Marvel",
+  "year": "2019",
+  "votes": 17284,
+  "nearMiss": false
+ },
+ "Avengers: Endgame|2019": {
+  "id": 299534,
+  "title": "アベンジャーズ／エンドゲーム",
+  "original": "Avengers: Endgame",
+  "year": "2019",
+  "votes": 29102,
+  "nearMiss": false
+ },
+ "Spider-Man: Far From Home|2019": {
+  "id": 429617,
+  "title": "スパイダーマン：ファー・フロム・ホーム",
+  "original": "Spider-Man: Far From Home",
+  "year": "2019",
+  "votes": 17796,
+  "nearMiss": false
+ },
+ "Harry Potter and the Philosopher's Stone|2001": {
+  "id": 671,
+  "title": "ハリー・ポッターと賢者の石",
+  "original": "Harry Potter and the Philosopher's Stone",
+  "year": "2001",
+  "votes": 30485,
+  "nearMiss": false
+ },
+ "Harry Potter and the Chamber of Secrets|2002": {
+  "id": 672,
+  "title": "ハリー・ポッターと秘密の部屋",
+  "original": "Harry Potter and the Chamber of Secrets",
+  "year": "2002",
+  "votes": 24275,
+  "nearMiss": false
+ },
+ "Harry Potter and the Prisoner of Azkaban|2004": {
+  "id": 673,
+  "title": "ハリー・ポッターとアズカバンの囚人",
+  "original": "Harry Potter and the Prisoner of Azkaban",
+  "year": "2004",
+  "votes": 23849,
+  "nearMiss": false
+ },
+ "Harry Potter and the Goblet of Fire|2005": {
+  "id": 674,
+  "title": "ハリー・ポッターと炎のゴブレット",
+  "original": "Harry Potter and the Goblet of Fire",
+  "year": "2005",
+  "votes": 22819,
+  "nearMiss": false
+ },
+ "Harry Potter and the Order of the Phoenix|2007": {
+  "id": 675,
+  "title": "ハリー・ポッターと不死鳥の騎士団",
+  "original": "Harry Potter and the Order of the Phoenix",
+  "year": "2007",
+  "votes": 21391,
+  "nearMiss": false
+ },
+ "Harry Potter and the Half-Blood Prince|2009": {
+  "id": 767,
+  "title": "ハリー・ポッターと謎のプリンス",
+  "original": "Harry Potter and the Half-Blood Prince",
+  "year": "2009",
+  "votes": 21349,
+  "nearMiss": false
+ },
+ "Harry Potter and the Deathly Hallows: Part 2|2011": {
+  "id": 12445,
+  "title": "ハリー・ポッターと死の秘宝 Part2",
+  "original": "Harry Potter and the Deathly Hallows: Part 2",
+  "year": "2011",
+  "votes": 22621,
+  "nearMiss": false
+ },
+ "Fantastic Beasts and Where to Find Them|2016": {
+  "id": 259316,
+  "title": "ファンタスティック・ビーストと魔法使いの旅",
+  "original": "Fantastic Beasts and Where to Find Them",
+  "year": "2016",
+  "votes": 20110,
+  "nearMiss": false
+ },
+ "Fantastic Beasts: The Crimes of Grindelwald|2018": {
+  "id": 338952,
+  "title": "ファンタスティック・ビーストと黒い魔法使いの誕生",
+  "original": "Fantastic Beasts: The Crimes of Grindelwald",
+  "year": "2018",
+  "votes": 11758,
+  "nearMiss": false
+ },
+ "Fantastic Beasts: The Secrets of Dumbledore|2022": {
+  "id": 338953,
+  "title": "ファンタスティック・ビーストとダンブルドアの秘密",
+  "original": "Fantastic Beasts: The Secrets of Dumbledore",
+  "year": "2022",
+  "votes": 5318,
+  "nearMiss": false
+ },
+ "The Hobbit: An Unexpected Journey|2012": {
+  "id": 49051,
+  "title": "ホビット 思いがけない冒険",
+  "original": "The Hobbit: An Unexpected Journey",
+  "year": "2012",
+  "votes": 20239,
+  "nearMiss": false
+ },
+ "The Hobbit: The Desolation of Smaug|2013": {
+  "id": 57158,
+  "title": "ホビット 竜に奪われた王国",
+  "original": "The Hobbit: The Desolation of Smaug",
+  "year": "2013",
+  "votes": 14727,
+  "nearMiss": false
+ },
+ "The Hobbit: The Battle of the Five Armies|2014": {
+  "id": 122917,
+  "title": "ホビット 決戦のゆくえ",
+  "original": "The Hobbit: The Battle of the Five Armies",
+  "year": "2014",
+  "votes": 15900,
+  "nearMiss": false
+ },
+ "The Lord of the Rings: The Fellowship of the Ring|2001": {
+  "id": 120,
+  "title": "ロード・オブ・ザ・リング",
+  "original": "The Lord of the Rings: The Fellowship of the Ring",
+  "year": "2001",
+  "votes": 28662,
+  "nearMiss": false
+ },
+ "The Lord of the Rings: The Two Towers|2002": {
+  "id": 121,
+  "title": "ロード・オブ・ザ・リング／二つの塔",
+  "original": "The Lord of the Rings: The Two Towers",
+  "year": "2002",
+  "votes": 24820,
+  "nearMiss": false
+ },
+ "The Lord of the Rings: The Return of the King|2003": {
+  "id": 122,
+  "title": "ロード・オブ・ザ・リング／王の帰還",
+  "original": "The Lord of the Rings: The Return of the King",
+  "year": "2003",
+  "votes": 27656,
+  "nearMiss": false
+ },
+ "Mission: Impossible|1996": {
+  "id": 954,
+  "title": "ミッション：インポッシブル",
+  "original": "Mission: Impossible",
+  "year": "1996",
+  "votes": 10394,
+  "nearMiss": false
+ },
+ "Mission: Impossible II|2000": {
+  "id": 955,
+  "title": "ミッション：インポッシブル２",
+  "original": "Mission: Impossible II",
+  "year": "2000",
+  "votes": 7912,
+  "nearMiss": false
+ },
+ "Mission: Impossible III|2006": {
+  "id": 956,
+  "title": "ミッション：インポッシブル３",
+  "original": "Mission: Impossible III",
+  "year": "2006",
+  "votes": 7943,
+  "nearMiss": false
+ },
+ "Mission: Impossible - Ghost Protocol|2011": {
+  "id": 56292,
+  "title": "ミッション：インポッシブル／ゴースト・プロトコル",
+  "original": "Mission: Impossible - Ghost Protocol",
+  "year": "2011",
+  "votes": 11110,
+  "nearMiss": false
+ },
+ "Mission: Impossible - Rogue Nation|2015": {
+  "id": 177677,
+  "title": "ミッション：インポッシブル／ローグ・ネイション",
+  "original": "Mission: Impossible - Rogue Nation",
+  "year": "2015",
+  "votes": 10048,
+  "nearMiss": false
+ },
+ "Mission: Impossible - Fallout|2018": {
+  "id": 353081,
+  "title": "ミッション：インポッシブル／フォールアウト",
+  "original": "Mission: Impossible - Fallout",
+  "year": "2018",
+  "votes": 9493,
+  "nearMiss": false
+ },
+ "Mission: Impossible - Dead Reckoning Part One|2023": {
+  "id": 575264,
+  "title": "ミッション：インポッシブル／デッドレコニング PART ONE",
+  "original": "Mission: Impossible - Dead Reckoning Part One",
+  "year": "2023",
+  "votes": 5469,
+  "nearMiss": false
+ },
+ "Mission: Impossible - The Final Reckoning|2025": {
+  "id": 575265,
+  "title": "ミッション：インポッシブル／ファイナル・レコニング",
+  "original": "Mission: Impossible - The Final Reckoning",
+  "year": "2025",
+  "votes": 3271,
+  "nearMiss": false
+ },
+ "Prometheus|2012": {
+  "id": 70981,
+  "title": "プロメテウス",
+  "original": "Prometheus",
+  "year": "2012",
+  "votes": 13748,
+  "nearMiss": false
+ },
+ "Alien: Covenant|2017": {
+  "id": 126889,
+  "title": "エイリアン：コヴェナント",
+  "original": "Alien: Covenant",
+  "year": "2017",
+  "votes": 9764,
+  "nearMiss": false
+ },
+ "Alien: Romulus|2024": {
+  "id": 945961,
+  "title": "エイリアン：ロムルス",
+  "original": "Alien: Romulus",
+  "year": "2024",
+  "votes": 4993,
+  "nearMiss": false
+ },
+ "Aliens|1986": {
+  "id": 679,
+  "title": "エイリアン2",
+  "original": "Aliens",
+  "year": "1986",
+  "votes": 11315,
+  "nearMiss": false
+ },
+ "Alien³|1992": {
+  "id": 8077,
+  "title": "エイリアン³",
+  "original": "Alien³",
+  "year": "1992",
+  "votes": 6670,
+  "nearMiss": false
+ },
+ "Alien Resurrection|1997": {
+  "id": 8078,
+  "title": "エイリアン4",
+  "original": "Alien Resurrection",
+  "year": "1997",
+  "votes": 5833,
+  "nearMiss": false
+ },
+ "The Artist|2011": {
+  "id": 74643,
+  "title": "アーティスト",
+  "original": "The Artist",
+  "year": "2011",
+  "votes": 3649,
+  "nearMiss": false
+ },
+ "Argo|2012": {
+  "id": 68734,
+  "title": "アルゴ",
+  "original": "Argo",
+  "year": "2012",
+  "votes": 9283,
+  "nearMiss": false
+ },
+ "12 Years a Slave|2013": {
+  "id": 76203,
+  "title": "それでも夜は明ける",
+  "original": "12 Years a Slave",
+  "year": "2013",
+  "votes": 12311,
+  "nearMiss": false
+ },
+ "Spotlight|2015": {
+  "id": 314365,
+  "title": "スポットライト 世紀のスクープ",
+  "original": "Spotlight",
+  "year": "2015",
+  "votes": 9050,
+  "nearMiss": false
+ },
+ "The Shape of Water|2017": {
+  "id": 399055,
+  "title": "シェイプ・オブ・ウォーター",
+  "original": "The Shape of Water",
+  "year": "2017",
+  "votes": 13161,
+  "nearMiss": false
+ },
+ "CODA|2021": {
+  "id": 776503,
+  "title": "コーダ あいのうた",
+  "original": "CODA",
+  "year": "2021",
+  "votes": 2760,
+  "nearMiss": false
+ },
+ "Taxi Driver|1976": {
+  "id": 103,
+  "title": "タクシードライバー",
+  "original": "Taxi Driver",
+  "year": "1976",
+  "votes": 13934,
+  "nearMiss": false
+ },
+ "Sex, Lies, and Videotape|1989": {
+  "id": 1412,
+  "title": "セックスと嘘とビデオテープ",
+  "original": "sex, lies, and videotape",
+  "year": "1989",
+  "votes": 1099,
+  "nearMiss": false
+ },
+ "Barton Fink|1991": {
+  "id": 290,
+  "title": "バートン・フィンク",
+  "original": "Barton Fink",
+  "year": "1991",
+  "votes": 1977,
+  "nearMiss": false
+ },
+ "The Piano|1993": {
+  "id": 713,
+  "title": "ピアノ・レッスン",
+  "original": "The Piano",
+  "year": "1993",
+  "votes": 1715,
+  "nearMiss": false
+ },
+ "Dancer in the Dark|2000": {
+  "id": 16,
+  "title": "ダンサー・イン・ザ・ダーク",
+  "original": "Dancer in the Dark",
+  "year": "2000",
+  "votes": 2101,
+  "nearMiss": false
+ },
+ "Elephant|2003": {
+  "id": 1807,
+  "title": "エレファント",
+  "original": "Elephant",
+  "year": "2003",
+  "votes": 2193,
+  "nearMiss": false
+ },
+ "The Wind that Shakes the Barley|2006": {
+  "id": 1116,
+  "title": "麦の穂をゆらす風",
+  "original": "The Wind That Shakes the Barley",
+  "year": "2006",
+  "votes": 937,
+  "nearMiss": false
+ },
+ "The White Ribbon|2009": {
+  "id": 37903,
+  "title": "白いリボン",
+  "original": "Das weiße Band - Eine deutsche Kindergeschichte",
+  "year": "2009",
+  "votes": 1191,
+  "nearMiss": false
+ },
+ "Amour|2012": {
+  "id": 86837,
+  "title": "愛、アムール",
+  "original": "Amour",
+  "year": "2012",
+  "votes": 1838,
+  "nearMiss": false
+ },
+ "The Magdalene Sisters|2002": {
+  "id": 8094,
+  "title": "マグダレンの祈り",
+  "original": "The Magdalene Sisters",
+  "year": "2002",
+  "votes": 493,
+  "nearMiss": false
+ },
+ "The Return|2003": {
+  "id": 122,
+  "title": "ロード・オブ・ザ・リング／王の帰還",
+  "original": "The Lord of the Rings: The Return of the King",
+  "year": "2003",
+  "votes": 27656,
+  "nearMiss": false
+ },
+ "Vera Drake|2004": {
+  "id": 11109,
+  "title": "ヴェラ・ドレイク",
+  "original": "Vera Drake",
+  "year": "2004",
+  "votes": 428,
+  "nearMiss": false
+ },
+ "The Wrestler|2008": {
+  "id": 12163,
+  "title": "レスラー",
+  "original": "The Wrestler",
+  "year": "2008",
+  "votes": 4176,
+  "nearMiss": false
+ },
+ "Somewhere|2010": {
+  "id": 39210,
+  "title": "SOMEWHERE",
+  "original": "Somewhere",
+  "year": "2010",
+  "votes": 843,
+  "nearMiss": false
+ },
+ "Pietà|2012": {
+  "id": 123377,
+  "title": "嘆きのピエタ",
+  "original": "피에타",
+  "year": "2012",
+  "votes": 437,
+  "nearMiss": false
+ },
+ "A Pigeon Sat on a Branch Reflecting on Existence|2014": {
+  "id": 110390,
+  "title": "さよなら、人類",
+  "original": "En duva satt på en gren och funderade på tillvaron",
+  "year": "2014",
+  "votes": 511,
+  "nearMiss": false
+ },
+ "All the Beauty and the Bloodshed|2022": {
+  "id": 1004663,
+  "title": "美と殺戮のすべて",
+  "original": "All the Beauty and the Bloodshed",
+  "year": "2022",
+  "votes": 176,
+  "nearMiss": false
+ },
+ "The Room Next Door|2024": {
+  "id": 1088514,
+  "title": "ザ・ルーム・ネクスト・ドア",
+  "original": "La habitación de al lado",
+  "year": "2024",
+  "votes": 725,
+  "nearMiss": false
+ },
+ "Sense and Sensibility|1995": {
+  "id": 4584,
+  "title": "いつか晴れた日に",
+  "original": "Sense and Sensibility",
+  "year": "1995",
+  "votes": 1909,
+  "nearMiss": false
+ },
+ "Magnolia|1999": {
+  "id": 334,
+  "title": "マグノリア",
+  "original": "Magnolia",
+  "year": "1999",
+  "votes": 4205,
+  "nearMiss": false
+ },
+ "Grbavica: The Land of My Dreams|2006": {
+  "id": 317,
+  "title": "Grbavica",
+  "original": "Grbavica",
+  "year": "2006",
+  "votes": 96,
+  "nearMiss": false
+ },
+ "Elite Squad|2007": {
+  "id": 7347,
+  "title": "エリート・スクワッド",
+  "original": "Tropa de Elite",
+  "year": "2007",
+  "votes": 2848,
+  "nearMiss": false
+ },
+ "A Separation|2011": {
+  "id": 60243,
+  "title": "別離",
+  "original": "جدایی نادر از سیمین",
+  "year": "2011",
+  "votes": 2050,
+  "nearMiss": false
+ },
+ "Caesar Must Die|2012": {
+  "id": 96821,
+  "title": "Cesare deve morire",
+  "original": "Cesare deve morire",
+  "year": "2012",
+  "votes": 164,
+  "nearMiss": false
+ },
+ "Fire at Sea|2016": {
+  "id": 377151,
+  "title": "海は燃えている～イタリア最南端の小さな島",
+  "original": "Fuocoammare",
+  "year": "2016",
+  "votes": 254,
+  "nearMiss": false
+ },
+ "On Body and Soul|2017": {
+  "id": 436343,
+  "title": "心と体と",
+  "original": "Testről és lélekről",
+  "year": "2017",
+  "votes": 642,
+  "nearMiss": false
+ },
+ "Synonyms|2019": {
+  "id": 501590,
+  "title": "Synonymes",
+  "original": "Synonymes",
+  "year": "2019",
+  "votes": 149,
+  "nearMiss": false
+ },
+ "There Is No Evil|2020": {
+  "id": 667935,
+  "title": "شیطان وجود ندارد",
+  "original": "شیطان وجود ندارد",
+  "year": "2020",
+  "votes": 176,
+  "nearMiss": false
+ },
+ "Alcarràs|2022": {
+  "id": 804251,
+  "title": "太陽と桃の歌",
+  "original": "Alcarràs",
+  "year": "2022",
+  "votes": 244,
+  "nearMiss": false
+ },
+ "Dahomey|2024": {
+  "id": 1101256,
+  "title": "Dahomey",
+  "original": "Dahomey",
+  "year": "2024",
+  "votes": 77,
+  "nearMiss": false
+ },
+ "Shizumanu Taiyo|2009": {
+  "id": 206719,
+  "title": "沈まぬ太陽",
+  "original": "沈まぬ太陽",
+  "year": "2009",
+  "votes": 12,
+  "nearMiss": false
+ },
+ "The Kirishima Thing|2012": {
+  "id": 175041,
+  "title": "桐島、部活やめるってよ",
+  "original": "桐島、部活やめるってよ",
+  "year": "2012",
+  "votes": 71,
+  "nearMiss": false
+ },
+ "The Great Passage|2013": {
+  "id": 182827,
+  "title": "舟を編む",
+  "original": "舟を編む",
+  "year": "2013",
+  "votes": 64,
+  "nearMiss": false
+ },
+ "The Eternal Zero|2013": {
+  "id": 248087,
+  "title": "永遠の0",
+  "original": "永遠の0",
+  "year": "2013",
+  "votes": 77,
+  "nearMiss": false
+ },
+ "Our Little Sister|2015": {
+  "id": 315846,
+  "title": "海街diary",
+  "original": "海街diary",
+  "year": "2015",
+  "votes": 596,
+  "nearMiss": false
+ },
+ "The Third Murder|2017": {
+  "id": 434775,
+  "title": "三度目の殺人",
+  "original": "三度目の殺人",
+  "year": "2017",
+  "votes": 316,
+  "nearMiss": false
+ },
+ "The Journalist|2019": {
+  "id": 611257,
+  "title": "新聞記者",
+  "original": "新聞記者",
+  "year": "2019",
+  "votes": 20,
+  "nearMiss": false
+ },
+ "Midnight Swan|2020": {
+  "id": 725691,
+  "title": "ミッドナイトスワン",
+  "original": "ミッドナイトスワン",
+  "year": "2020",
+  "votes": 19,
+  "nearMiss": false
+ },
+ "A Man|2022": {
+  "id": 937278,
+  "title": "オットーという男",
+  "original": "A Man Called Otto",
+  "year": "2022",
+  "votes": 3835,
+  "nearMiss": false
+ },
+ "A Samurai in Time|2024": {
+  "id": 1287819,
+  "title": "侍タイムスリッパー",
+  "original": "侍タイムスリッパー",
+  "year": "2024",
+  "votes": 30,
+  "nearMiss": false
+ },
+ "Vertigo|1958": {
+  "id": 426,
+  "title": "めまい",
+  "original": "Vertigo",
+  "year": "1958",
+  "votes": 6576,
+  "nearMiss": false
+ },
+ "Citizen Kane|1941": {
+  "id": 15,
+  "title": "市民ケーン",
+  "original": "Citizen Kane",
+  "year": "1941",
+  "votes": 6307,
+  "nearMiss": false
+ },
+ "Beau Travail|1999": {
+  "id": 14626,
+  "title": "美しき仕事",
+  "original": "Beau Travail",
+  "year": "2000",
+  "votes": 389,
+  "nearMiss": false
+ },
+ "Singin' in the Rain|1952": {
+  "id": 872,
+  "title": "雨に唄えば",
+  "original": "Singin' in the Rain",
+  "year": "1952",
+  "votes": 3660,
+  "nearMiss": false
+ },
+ "Cléo from 5 to 7|1962": {
+  "id": 499,
+  "title": "5時から7時までのクレオ",
+  "original": "Cléo de 5 à 7",
+  "year": "1962",
+  "votes": 817,
+  "nearMiss": false
+ },
+ "Bicycle Thieves|1948": {
+  "id": 5156,
+  "title": "自転車泥棒",
+  "original": "Ladri di biciclette",
+  "year": "1948",
+  "votes": 2787,
+  "nearMiss": false
+ },
+ "Do the Right Thing|1989": {
+  "id": 925,
+  "title": "ドゥ・ザ・ライト・シング",
+  "original": "Do the Right Thing",
+  "year": "1989",
+  "votes": 2114,
+  "nearMiss": false
+ },
+ "Psycho|1960": {
+  "id": 539,
+  "title": "サイコ",
+  "original": "Psycho",
+  "year": "1960",
+  "votes": 11376,
+  "nearMiss": false
+ },
+ "Casablanca|1942": {
+  "id": 289,
+  "title": "カサブランカ",
+  "original": "Casablanca",
+  "year": "1943",
+  "votes": 6300,
+  "nearMiss": false
+ },
+ "Raging Bull|1980": {
+  "id": 1578,
+  "title": "レイジング・ブル",
+  "original": "Raging Bull",
+  "year": "1980",
+  "votes": 4951,
+  "nearMiss": false
+ },
+ "Gone with the Wind|1939": {
+  "id": 770,
+  "title": "風と共に去りぬ",
+  "original": "Gone with the Wind",
+  "year": "1939",
+  "votes": 4523,
+  "nearMiss": false
+ },
+ "The Wizard of Oz|1939": {
+  "id": 630,
+  "title": "オズの魔法使",
+  "original": "The Wizard of Oz",
+  "year": "1939",
+  "votes": 6343,
+  "nearMiss": false
+ },
+ "City Lights|1931": {
+  "id": 901,
+  "title": "街の灯",
+  "original": "City Lights",
+  "year": "1931",
+  "votes": 2578,
+  "nearMiss": false
+ },
+ "The Searchers|1956": {
+  "id": 3114,
+  "title": "捜索者",
+  "original": "The Searchers",
+  "year": "1956",
+  "votes": 1645,
+  "nearMiss": false
+ },
+ "Sunset Boulevard|1950": {
+  "id": 599,
+  "title": "サンセット大通り",
+  "original": "Sunset Boulevard",
+  "year": "1950",
+  "votes": 3074,
+  "nearMiss": false
+ },
+ "The Graduate|1967": {
+  "id": 37247,
+  "title": "卒業",
+  "original": "The Graduate",
+  "year": "1967",
+  "votes": 3861,
+  "nearMiss": false
+ },
+ "The General|1926": {
+  "id": 961,
+  "title": "キートン将軍",
+  "original": "The General",
+  "year": "1926",
+  "votes": 1483,
+  "nearMiss": false
+ },
+ "On the Waterfront|1954": {
+  "id": 654,
+  "title": "波止場",
+  "original": "On the Waterfront",
+  "year": "1954",
+  "votes": 1868,
+  "nearMiss": false
+ },
+ "It's a Wonderful Life|1946": {
+  "id": 1585,
+  "title": "素晴らしき哉、人生！",
+  "original": "It's a Wonderful Life",
+  "year": "1946",
+  "votes": 5126,
+  "nearMiss": false
+ },
+ "Dear Doctor|2009": {
+  "id": 88797,
+  "title": "ディア・ドクター",
+  "original": "ディア・ドクター",
+  "year": "2009",
+  "votes": 23,
+  "nearMiss": false
+ },
+ "Our Homeland|2012": {
+  "id": 107453,
+  "title": "かぞくのくに",
+  "original": "かぞくのくに",
+  "year": "2012",
+  "votes": 16,
+  "nearMiss": false
+ },
+ "Pecoross' Mother and Her Days|2013": {
+  "id": 255391,
+  "title": "ペコロスの母に会いに行く",
+  "original": "ペコロスの母に会いに行く",
+  "year": "2013",
+  "votes": 9,
+  "nearMiss": false
+ },
+ "The Light Shines Only There|2014": {
+  "id": 287778,
+  "title": "そこのみにて光輝く",
+  "original": "そこのみにて光輝く",
+  "year": "2014",
+  "votes": 21,
+  "nearMiss": false
+ },
+ "Three Stories of Love|2015": {
+  "id": 362366,
+  "title": "恋人たち",
+  "original": "恋人たち",
+  "year": "2015",
+  "votes": 14,
+  "nearMiss": false
+ },
+ "The Tokyo Night Sky Is Always the Densest Shade of Blue|2017": {
+  "id": 438339,
+  "title": "夜空はいつでも最高密度の青色だ",
+  "original": "夜空はいつでも最高密度の青色だ",
+  "year": "2017",
+  "votes": 26,
+  "nearMiss": false
+ },
+ "It Feels So Good|2019": {
+  "id": 625976,
+  "title": "火口のふたり",
+  "original": "火口のふたり",
+  "year": "2019",
+  "votes": 50,
+  "nearMiss": false
+ },
+ "Wife of a Spy|2020": {
+  "id": 688301,
+  "title": "スパイの妻",
+  "original": "スパイの妻",
+  "year": "2020",
+  "votes": 108,
+  "nearMiss": false
+ },
+ "Small, Slow but Steady|2022": {
+  "id": 928730,
+  "title": "ケイコ 目を澄ませて",
+  "original": "ケイコ 目を澄ませて",
+  "year": "2022",
+  "votes": 62,
+  "nearMiss": false
+ },
+ "Okiku and the World|2023": {
+  "id": 1063241,
+  "title": "せかいのおきく",
+  "original": "せかいのおきく",
+  "year": "2023",
+  "votes": 17,
+  "nearMiss": false
+ },
+ "Following|1998": {
+  "id": 11660,
+  "title": "フォロウィング",
+  "original": "Following",
+  "year": "1999",
+  "votes": 2011,
+  "nearMiss": false
+ },
+ "Insomnia|2002": {
+  "id": 320,
+  "title": "インソムニア",
+  "original": "Insomnia",
+  "year": "2002",
+  "votes": 5607,
+  "nearMiss": false
+ },
+ "Batman Begins|2005": {
+  "id": 272,
+  "title": "バットマン ビギンズ",
+  "original": "Batman Begins",
+  "year": "2005",
+  "votes": 23400,
+  "nearMiss": false
+ },
+ "The Dark Knight Rises|2012": {
+  "id": 49026,
+  "title": "ダークナイト・ライジング",
+  "original": "The Dark Knight Rises",
+  "year": "2012",
+  "votes": 25183,
+  "nearMiss": false
+ },
+ "Paths of Glory|1957": {
+  "id": 975,
+  "title": "突撃",
+  "original": "Paths of Glory",
+  "year": "1957",
+  "votes": 3419,
+  "nearMiss": false
+ },
+ "Spartacus|1960": {
+  "id": 967,
+  "title": "スパルタカス",
+  "original": "Spartacus",
+  "year": "1960",
+  "votes": 2478,
+  "nearMiss": false
+ },
+ "Lolita|1962": {
+  "id": 802,
+  "title": "ロリータ",
+  "original": "Lolita",
+  "year": "1962",
+  "votes": 2328,
+  "nearMiss": false
+ },
+ "A Clockwork Orange|1971": {
+  "id": 185,
+  "title": "時計じかけのオレンジ",
+  "original": "A Clockwork Orange",
+  "year": "1971",
+  "votes": 14250,
+  "nearMiss": false
+ },
+ "Eyes Wide Shut|1999": {
+  "id": 345,
+  "title": "アイズ ワイド シャット",
+  "original": "Eyes Wide Shut",
+  "year": "1999",
+  "votes": 7413,
+  "nearMiss": false
+ },
+ "The King of Comedy|1982": {
+  "id": 262,
+  "title": "キング・オブ・コメディ",
+  "original": "The King of Comedy",
+  "year": "1982",
+  "votes": 2701,
+  "nearMiss": false
+ },
+ "Gangs of New York|2002": {
+  "id": 3131,
+  "title": "ギャング・オブ・ニューヨーク",
+  "original": "Gangs of New York",
+  "year": "2002",
+  "votes": 7492,
+  "nearMiss": false
+ },
+ "The Aviator|2004": {
+  "id": 2567,
+  "title": "アビエイター",
+  "original": "The Aviator",
+  "year": "2004",
+  "votes": 6073,
+  "nearMiss": false
+ },
+ "The Wolf of Wall Street|2013": {
+  "id": 106646,
+  "title": "ウルフ・オブ・ウォールストリート",
+  "original": "The Wolf of Wall Street",
+  "year": "2013",
+  "votes": 26798,
+  "nearMiss": false
+ },
+ "Silence|2016": {
+  "id": 68730,
+  "title": "沈黙 －サイレンス－",
+  "original": "Silence",
+  "year": "2016",
+  "votes": 3438,
+  "nearMiss": false
+ },
+ "The Irishman|2019": {
+  "id": 398978,
+  "title": "アイリッシュマン",
+  "original": "The Irishman",
+  "year": "2019",
+  "votes": 7811,
+  "nearMiss": false
+ },
+ "Killers of the Flower Moon|2023": {
+  "id": 466420,
+  "title": "キラーズ・オブ・ザ・フラワームーン",
+  "original": "Killers of the Flower Moon",
+  "year": "2023",
+  "votes": 4429,
+  "nearMiss": false
+ },
+ "Jackie Brown|1997": {
+  "id": 184,
+  "title": "ジャッキー・ブラウン",
+  "original": "Jackie Brown",
+  "year": "1997",
+  "votes": 7194,
+  "nearMiss": false
+ },
+ "Kill Bill: Vol. 1|2003": {
+  "id": 24,
+  "title": "キル・ビル Vol 1",
+  "original": "Kill Bill: Vol. 1",
+  "year": "2003",
+  "votes": 19618,
+  "nearMiss": false
+ },
+ "Kill Bill: Vol. 2|2004": {
+  "id": 393,
+  "title": "キル・ビル Vol 2",
+  "original": "Kill Bill: Vol. 2",
+  "year": "2004",
+  "votes": 15591,
+  "nearMiss": false
+ },
+ "Death Proof|2007": {
+  "id": 1991,
+  "title": "デス・プルーフ in グラインドハウス",
+  "original": "Death Proof",
+  "year": "2007",
+  "votes": 5864,
+  "nearMiss": false
+ },
+ "Django Unchained|2012": {
+  "id": 68718,
+  "title": "ジャンゴ 繋がれざる者",
+  "original": "Django Unchained",
+  "year": "2012",
+  "votes": 28839,
+  "nearMiss": false
+ },
+ "The Hateful Eight|2015": {
+  "id": 273248,
+  "title": "ヘイトフル・エイト",
+  "original": "The Hateful Eight",
+  "year": "2015",
+  "votes": 15742,
+  "nearMiss": false
+ },
+ "Once Upon a Time... in Hollywood|2019": {
+  "id": 466272,
+  "title": "ワンス・アポン・ア・タイム・イン・ハリウッド",
+  "original": "Once Upon a Time... in Hollywood",
+  "year": "2019",
+  "votes": 15451,
+  "nearMiss": false
+ },
+ "Bottle Rocket|1996": {
+  "id": 13685,
+  "title": "Bottle Rocket",
+  "original": "Bottle Rocket",
+  "year": "1996",
+  "votes": 1251,
+  "nearMiss": false
+ },
+ "Rushmore|1998": {
+  "id": 11545,
+  "title": "天才マックスの世界",
+  "original": "Rushmore",
+  "year": "1998",
+  "votes": 2842,
+  "nearMiss": false
+ },
+ "The Royal Tenenbaums|2001": {
+  "id": 9428,
+  "title": "ザ・ロイヤル・テネンバウムズ",
+  "original": "The Royal Tenenbaums",
+  "year": "2001",
+  "votes": 5258,
+  "nearMiss": false
+ },
+ "The Life Aquatic with Steve Zissou|2004": {
+  "id": 421,
+  "title": "ライフ・アクアティック",
+  "original": "The Life Aquatic with Steve Zissou",
+  "year": "2004",
+  "votes": 3307,
+  "nearMiss": false
+ },
+ "The Darjeeling Limited|2007": {
+  "id": 4538,
+  "title": "ダージリン急行",
+  "original": "The Darjeeling Limited",
+  "year": "2007",
+  "votes": 4138,
+  "nearMiss": false
+ },
+ "Moonrise Kingdom|2012": {
+  "id": 83666,
+  "title": "ムーンライズ・キングダム",
+  "original": "Moonrise Kingdom",
+  "year": "2012",
+  "votes": 6544,
+  "nearMiss": false
+ },
+ "Isle of Dogs|2018": {
+  "id": 399174,
+  "title": "犬ヶ島",
+  "original": "Isle of Dogs",
+  "year": "2018",
+  "votes": 5623,
+  "nearMiss": false
+ },
+ "The French Dispatch|2021": {
+  "id": 542178,
+  "title": "フレンチ・ディスパッチ ザ・リバティ、カンザス・イヴニング・サン別冊",
+  "original": "The French Dispatch of the Liberty, Kansas Evening Sun",
+  "year": "2021",
+  "votes": 3142,
+  "nearMiss": false
+ },
+ "The Phoenician Scheme|2025": {
+  "id": 1137350,
+  "title": "ザ・ザ・コルダのフェニキア計画",
+  "original": "The Phoenician Scheme",
+  "year": "2025",
+  "votes": 1095,
+  "nearMiss": false
+ },
+ "The Game|1997": {
+  "id": 2649,
+  "title": "ゲーム",
+  "original": "The Game",
+  "year": "1997",
+  "votes": 7678,
+  "nearMiss": false
+ },
+ "Panic Room|2002": {
+  "id": 4547,
+  "title": "パニック・ルーム",
+  "original": "Panic Room",
+  "year": "2002",
+  "votes": 5638,
+  "nearMiss": false
+ },
+ "The Curious Case of Benjamin Button|2008": {
+  "id": 4922,
+  "title": "ベンジャミン・バトン 数奇な人生",
+  "original": "The Curious Case of Benjamin Button",
+  "year": "2008",
+  "votes": 14171,
+  "nearMiss": false
+ },
+ "The Social Network|2010": {
+  "id": 37799,
+  "title": "ソーシャル・ネットワーク",
+  "original": "The Social Network",
+  "year": "2010",
+  "votes": 13682,
+  "nearMiss": false
+ },
+ "Mank|2020": {
+  "id": 614560,
+  "title": "Mank/マンク",
+  "original": "Mank",
+  "year": "2020",
+  "votes": 1863,
+  "nearMiss": false
+ },
+ "The Killer|2023": {
+  "id": 800158,
+  "title": "ザ・キラー",
+  "original": "The Killer",
+  "year": "2023",
+  "votes": 3064,
+  "nearMiss": false
+ },
+ "Incendies|2010": {
+  "id": 46738,
+  "title": "灼熱の魂",
+  "original": "Incendies",
+  "year": "2010",
+  "votes": 3529,
+  "nearMiss": false
+ },
+ "Sicario|2015": {
+  "id": 273481,
+  "title": "ボーダーライン",
+  "original": "Sicario",
+  "year": "2015",
+  "votes": 10002,
+  "nearMiss": false
+ },
+ "Lupin the Third: The Castle of Cagliostro|1979": {
+  "id": 15371,
+  "title": "ルパン三世 カリオストロの城",
+  "original": "ルパン三世 カリオストロの城",
+  "year": "1979",
+  "votes": 1189,
+  "nearMiss": false
+ },
+ "Maborosi|1995": {
+  "id": 18872,
+  "title": "幻の光",
+  "original": "幻の光",
+  "year": "1995",
+  "votes": 211,
+  "nearMiss": false
+ },
+ "Air Doll|2009": {
+  "id": 25053,
+  "title": "空気人形",
+  "original": "空気人形",
+  "year": "2009",
+  "votes": 292,
+  "nearMiss": false
+ },
+ "After the Storm|2016": {
+  "id": 374671,
+  "title": "海よりもまだ深く",
+  "original": "海よりもまだ深く",
+  "year": "2016",
+  "votes": 411,
+  "nearMiss": false
+ },
+ "Broker|2022": {
+  "id": 736732,
+  "title": "ベイビー・ブローカー",
+  "original": "브로커",
+  "year": "2022",
+  "votes": 578,
+  "nearMiss": false
+ },
+ "Barking Dogs Never Bite|2000": {
+  "id": 21531,
+  "title": "ほえる犬は噛まない",
+  "original": "플란다스의 개",
+  "year": "2000",
+  "votes": 326,
+  "nearMiss": false
+ },
+ "Snowpiercer|2013": {
+  "id": 110415,
+  "title": "スノーピアサー",
+  "original": "설국열차",
+  "year": "2013",
+  "votes": 10782,
+  "nearMiss": false
+ },
+ "Okja|2017": {
+  "id": 387426,
+  "title": "オクジャ／okja",
+  "original": "Okja",
+  "year": "2017",
+  "votes": 4676,
+  "nearMiss": false
+ },
+ "Mickey 17|2025": {
+  "id": 696506,
+  "title": "ミッキー17",
+  "original": "Mickey 17",
+  "year": "2025",
+  "votes": 4128,
+  "nearMiss": false
+ },
+ "Joint Security Area|2000": {
+  "id": 2440,
+  "title": "JSA",
+  "original": "공동경비구역 JSA",
+  "year": "2000",
+  "votes": 898,
+  "nearMiss": false
+ },
+ "Sympathy for Mr. Vengeance|2002": {
+  "id": 4689,
+  "title": "復讐者に憐れみを",
+  "original": "복수는 나의 것",
+  "year": "2002",
+  "votes": 1809,
+  "nearMiss": false
+ },
+ "Lady Vengeance|2005": {
+  "id": 4550,
+  "title": "親切なクムジャさん",
+  "original": "친절한 금자씨",
+  "year": "2005",
+  "votes": 2060,
+  "nearMiss": false
+ },
+ "Stoker|2013": {
+  "id": 86825,
+  "title": "イノセント・ガーデン",
+  "original": "Stoker",
+  "year": "2013",
+  "votes": 2513,
+  "nearMiss": false
+ },
+ "No Other Choice|2025": {
+  "id": 639988,
+  "title": "しあわせな選択",
+  "original": "어쩔수가없다",
+  "year": "2025",
+  "votes": 1355,
+  "nearMiss": false
+ },
+ "Drunken Angel|1948": {
+  "id": 25858,
+  "title": "酔いどれ天使",
+  "original": "醉いどれ天使",
+  "year": "1948",
+  "votes": 324,
+  "nearMiss": false
+ },
+ "Throne of Blood|1957": {
+  "id": 3777,
+  "title": "蜘蛛巣城",
+  "original": "蜘蛛巣城",
+  "year": "1957",
+  "votes": 1036,
+  "nearMiss": false
+ },
+ "The Hidden Fortress|1958": {
+  "id": 1059,
+  "title": "隠し砦の三悪人",
+  "original": "隠し砦の三悪人",
+  "year": "1958",
+  "votes": 750,
+  "nearMiss": false
+ },
+ "Sanjuro|1962": {
+  "id": 11712,
+  "title": "椿三十郎",
+  "original": "椿三十郎",
+  "year": "1962",
+  "votes": 761,
+  "nearMiss": false
+ },
+ "Red Beard|1965": {
+  "id": 3780,
+  "title": "赤ひげ",
+  "original": "赤ひげ",
+  "year": "1965",
+  "votes": 433,
+  "nearMiss": false
+ },
+ "Dersu Uzala|1975": {
+  "id": 9764,
+  "title": "デルス・ウザーラ",
+  "original": "Дерсу Узала",
+  "year": "1975",
+  "votes": 663,
+  "nearMiss": false
+ },
+ "Kagemusha|1980": {
+  "id": 11953,
+  "title": "影武者",
+  "original": "影武者",
+  "year": "1980",
+  "votes": 776,
+  "nearMiss": false
+ },
+ "Jaws|1975": {
+  "id": 578,
+  "title": "ジョーズ",
+  "original": "Jaws",
+  "year": "1975",
+  "votes": 11969,
+  "nearMiss": false
+ },
+ "Close Encounters of the Third Kind|1977": {
+  "id": 840,
+  "title": "未知との遭遇",
+  "original": "Close Encounters of the Third Kind",
+  "year": "1977",
+  "votes": 4893,
+  "nearMiss": false
+ },
+ "Raiders of the Lost Ark|1981": {
+  "id": 85,
+  "title": "レイダース／失われたアーク《聖櫃》",
+  "original": "Raiders of the Lost Ark",
+  "year": "1981",
+  "votes": 14146,
+  "nearMiss": false
+ },
+ "Catch Me If You Can|2002": {
+  "id": 640,
+  "title": "キャッチ・ミー・イフ・ユー・キャン",
+  "original": "Catch Me If You Can",
+  "year": "2002",
+  "votes": 17771,
+  "nearMiss": false
+ },
+ "Munich|2005": {
+  "id": 612,
+  "title": "ミュンヘン",
+  "original": "Munich",
+  "year": "2005",
+  "votes": 3128,
+  "nearMiss": false
+ },
+ "Lincoln|2012": {
+  "id": 72976,
+  "title": "リンカーン",
+  "original": "Lincoln",
+  "year": "2012",
+  "votes": 4187,
+  "nearMiss": false
+ },
+ "Ready Player One|2018": {
+  "id": 333339,
+  "title": "レディ・プレイヤー1",
+  "original": "Ready Player One",
+  "year": "2018",
+  "votes": 17523,
+  "nearMiss": false
+ },
+ "West Side Story|2021": {
+  "id": 511809,
+  "title": "ウエスト・サイド・ストーリー",
+  "original": "West Side Story",
+  "year": "2021",
+  "votes": 1866,
+  "nearMiss": false
+ },
+ "The Fabelmans|2022": {
+  "id": 804095,
+  "title": "フェイブルマンズ",
+  "original": "The Fabelmans",
+  "year": "2022",
+  "votes": 2928,
+  "nearMiss": false
+ },
+ "The 39 Steps|1935": {
+  "id": 260,
+  "title": "三十九夜",
+  "original": "The 39 Steps",
+  "year": "1935",
+  "votes": 1107,
+  "nearMiss": false
+ },
+ "Rebecca|1940": {
+  "id": 223,
+  "title": "レベッカ",
+  "original": "Rebecca",
+  "year": "1940",
+  "votes": 2060,
+  "nearMiss": false
+ },
+ "Shadow of a Doubt|1943": {
+  "id": 21734,
+  "title": "疑惑の影",
+  "original": "Shadow of a Doubt",
+  "year": "1943",
+  "votes": 1204,
+  "nearMiss": false
+ },
+ "Notorious|1946": {
+  "id": 303,
+  "title": "汚名",
+  "original": "Notorious",
+  "year": "1946",
+  "votes": 1819,
+  "nearMiss": false
+ },
+ "Strangers on a Train|1951": {
+  "id": 845,
+  "title": "見知らぬ乗客",
+  "original": "Strangers on a Train",
+  "year": "1951",
+  "votes": 1959,
+  "nearMiss": false
+ },
+ "North by Northwest|1959": {
+  "id": 213,
+  "title": "北北西に進路を取れ",
+  "original": "North by Northwest",
+  "year": "1959",
+  "votes": 4690,
+  "nearMiss": false
+ },
+ "The Birds|1963": {
+  "id": 571,
+  "title": "鳥",
+  "original": "The Birds",
+  "year": "1963",
+  "votes": 4619,
+  "nearMiss": false
+ },
+ "Violent Cop|1989": {
+  "id": 12622,
+  "title": "その男、凶暴につき",
+  "original": "その男、凶暴につき",
+  "year": "1989",
+  "votes": 428,
+  "nearMiss": false
+ },
+ "Boiling Point|1990": {
+  "id": 26936,
+  "title": "3-4x 10月",
+  "original": "３－４Ｘ１０月",
+  "year": "1990",
+  "votes": 229,
+  "nearMiss": false
+ },
+ "A Scene at the Sea|1991": {
+  "id": 23606,
+  "title": "あの夏、いちばん静かな海。",
+  "original": "あの夏、いちばん静かな海。",
+  "year": "1991",
+  "votes": 235,
+  "nearMiss": false
+ },
+ "Sonatine|1993": {
+  "id": 7500,
+  "title": "ソナチネ",
+  "original": "Sonatine",
+  "year": "1993",
+  "votes": 714,
+  "nearMiss": false
+ },
+ "Kids Return|1996": {
+  "id": 27233,
+  "title": "キッズ・リターン",
+  "original": "キッズ・リターン",
+  "year": "1996",
+  "votes": 351,
+  "nearMiss": false
+ },
+ "Zatoichi|2003": {
+  "id": 246,
+  "title": "座頭市",
+  "original": "座頭市",
+  "year": "2003",
+  "votes": 1004,
+  "nearMiss": false
+ },
+ "Kubi|2023": {
+  "id": 795087,
+  "title": "首",
+  "original": "首",
+  "year": "2023",
+  "votes": 45,
+  "nearMiss": false
+ },
+ "Happy Hour|2015": {
+  "id": 354759,
+  "title": "ハッピーアワー",
+  "original": "Happy Hour",
+  "year": "2015",
+  "votes": 97,
+  "nearMiss": false
+ },
+ "Asako I & II|2018": {
+  "id": 487850,
+  "title": "寝ても覚めても",
+  "original": "寝ても覚めても",
+  "year": "2018",
+  "votes": 212,
+  "nearMiss": false
+ },
+ "Wheel of Fortune and Fantasy|2021": {
+  "id": 795811,
+  "title": "偶然と想像",
+  "original": "偶然と想像",
+  "year": "2021",
+  "votes": 376,
+  "nearMiss": false
+ },
+ "Blood Simple|1984": {
+  "id": 11368,
+  "title": "ブラッドシンプル",
+  "original": "Blood Simple",
+  "year": "1985",
+  "votes": 1707,
+  "nearMiss": false
+ },
+ "Raising Arizona|1987": {
+  "id": 378,
+  "title": "赤ちゃん泥棒",
+  "original": "Raising Arizona",
+  "year": "1987",
+  "votes": 2448,
+  "nearMiss": false
+ },
+ "Miller's Crossing|1990": {
+  "id": 379,
+  "title": "ミラーズ・クロッシング",
+  "original": "Miller's Crossing",
+  "year": "1990",
+  "votes": 1938,
+  "nearMiss": false
+ },
+ "O Brother, Where Art Thou?|2000": {
+  "id": 134,
+  "title": "オー・ブラザー!",
+  "original": "O Brother, Where Art Thou?",
+  "year": "2000",
+  "votes": 4815,
+  "nearMiss": false
+ },
+ "A Serious Man|2009": {
+  "id": 12573,
+  "title": "シリアスマン",
+  "original": "A Serious Man",
+  "year": "2009",
+  "votes": 2483,
+  "nearMiss": false
+ },
+ "True Grit|2010": {
+  "id": 44264,
+  "title": "トゥルー・グリット",
+  "original": "True Grit",
+  "year": "2010",
+  "votes": 5983,
+  "nearMiss": false
+ },
+ "The Ballad of Buster Scruggs|2018": {
+  "id": 537996,
+  "title": "バスターのバラード",
+  "original": "The Ballad of Buster Scruggs",
+  "year": "2018",
+  "votes": 4622,
+  "nearMiss": false
+ },
+ "Frances Ha|2012": {
+  "id": 121986,
+  "title": "フランシス・ハ",
+  "original": "Frances Ha",
+  "year": "2013",
+  "votes": 1887,
+  "nearMiss": false
+ },
+ "Mistress America|2015": {
+  "id": 309245,
+  "title": "ミストレス・アメリカ",
+  "original": "Mistress America",
+  "year": "2015",
+  "votes": 614,
+  "nearMiss": false
+ },
+ "20th Century Women|2016": {
+  "id": 342737,
+  "title": "20センチュリー・ウーマン",
+  "original": "20th Century Women",
+  "year": "2016",
+  "votes": 1270,
+  "nearMiss": false
+ },
+ "Little Women|2019": {
+  "id": 331482,
+  "title": "ストーリー・オブ・マイライフ/わたしの若草物語",
+  "original": "Little Women",
+  "year": "2019",
+  "votes": 7074,
+  "nearMiss": false
+ },
+ "What's Eating Gilbert Grape|1993": {
+  "id": 1587,
+  "title": "ギルバート・グレイプ",
+  "original": "What's Eating Gilbert Grape",
+  "year": "1993",
+  "votes": 4421,
+  "nearMiss": false
+ },
+ "Romeo + Juliet|1996": {
+  "id": 454,
+  "title": "ロミオ+ジュリエット",
+  "original": "Romeo + Juliet",
+  "year": "1996",
+  "votes": 5492,
+  "nearMiss": false
+ },
+ "Blood Diamond|2006": {
+  "id": 1372,
+  "title": "ブラッド・ダイヤモンド",
+  "original": "Blood Diamond",
+  "year": "2006",
+  "votes": 8629,
+  "nearMiss": false
+ },
+ "Big|1988": {
+  "id": 2280,
+  "title": "ビッグ",
+  "original": "Big",
+  "year": "1988",
+  "votes": 4227,
+  "nearMiss": false
+ },
+ "Toy Story|1995": {
+  "id": 862,
+  "title": "トイ・ストーリー",
+  "original": "Toy Story",
+  "year": "1995",
+  "votes": 20722,
+  "nearMiss": false
+ },
+ "The Green Mile|1999": {
+  "id": 497,
+  "title": "グリーンマイル",
+  "original": "The Green Mile",
+  "year": "1999",
+  "votes": 20024,
+  "nearMiss": false
+ },
+ "Cast Away|2000": {
+  "id": 8358,
+  "title": "キャスト・アウェイ",
+  "original": "Cast Away",
+  "year": "2000",
+  "votes": 12673,
+  "nearMiss": false
+ },
+ "Captain Phillips|2013": {
+  "id": 109424,
+  "title": "キャプテン・フィリップス",
+  "original": "Captain Phillips",
+  "year": "2013",
+  "votes": 7760,
+  "nearMiss": false
+ },
+ "Bridge of Spies|2015": {
+  "id": 296098,
+  "title": "ブリッジ・オブ・スパイ",
+  "original": "Bridge of Spies",
+  "year": "2015",
+  "votes": 7485,
+  "nearMiss": false
+ },
+ "Sully|2016": {
+  "id": 363676,
+  "title": "ハドソン川の奇跡",
+  "original": "Sully",
+  "year": "2016",
+  "votes": 7963,
+  "nearMiss": false
+ },
+ "A Beautiful Day in the Neighborhood|2019": {
+  "id": 501907,
+  "title": "幸せへのまわり道",
+  "original": "A Beautiful Day in the Neighborhood",
+  "year": "2019",
+  "votes": 1826,
+  "nearMiss": false
+ },
+ "The Deer Hunter|1978": {
+  "id": 11778,
+  "title": "ディア・ハンター",
+  "original": "The Deer Hunter",
+  "year": "1978",
+  "votes": 4441,
+  "nearMiss": false
+ },
+ "Kramer vs. Kramer|1979": {
+  "id": 12102,
+  "title": "クレイマー、クレイマー",
+  "original": "Kramer vs. Kramer",
+  "year": "1979",
+  "votes": 2576,
+  "nearMiss": false
+ },
+ "Sophie's Choice|1982": {
+  "id": 15764,
+  "title": "ソフィーの選択",
+  "original": "Sophie's Choice",
+  "year": "1982",
+  "votes": 972,
+  "nearMiss": false
+ },
+ "Out of Africa|1985": {
+  "id": 606,
+  "title": "愛と哀しみの果て",
+  "original": "Out of Africa",
+  "year": "1985",
+  "votes": 1598,
+  "nearMiss": false
+ },
+ "The Bridges of Madison County|1995": {
+  "id": 688,
+  "title": "マディソン郡の橋",
+  "original": "The Bridges of Madison County",
+  "year": "1995",
+  "votes": 2460,
+  "nearMiss": false
+ },
+ "The Devil Wears Prada|2006": {
+  "id": 350,
+  "title": "プラダを着た悪魔",
+  "original": "The Devil Wears Prada",
+  "year": "2006",
+  "votes": 14363,
+  "nearMiss": false
+ },
+ "Doubt|2008": {
+  "id": 14359,
+  "title": "ダウト〜あるカトリック学校で〜",
+  "original": "Doubt",
+  "year": "2008",
+  "votes": 2006,
+  "nearMiss": false
+ },
+ "The Iron Lady|2011": {
+  "id": 71688,
+  "title": "マーガレット・サッチャー 鉄の女の涙",
+  "original": "The Iron Lady",
+  "year": "2011",
+  "votes": 1937,
+  "nearMiss": false
+ },
+ "Into the Woods|2014": {
+  "id": 224141,
+  "title": "イントゥ・ザ・ウッズ",
+  "original": "Into the Woods",
+  "year": "2014",
+  "votes": 4493,
+  "nearMiss": false
+ },
+ "The Post|2017": {
+  "id": 446354,
+  "title": "ペンタゴン・ペーパーズ／最高機密文書",
+  "original": "The Post",
+  "year": "2017",
+  "votes": 5065,
+  "nearMiss": false
+ },
+ "The Assassination of Jesse James by the Coward Robert Ford|2007": {
+  "id": 4512,
+  "title": "ジェシー・ジェームズの暗殺",
+  "original": "The Assassination of Jesse James by the Coward Robert Ford",
+  "year": "2007",
+  "votes": 2902,
+  "nearMiss": false
+ },
+ "Moneyball|2011": {
+  "id": 60308,
+  "title": "マネーボール",
+  "original": "Moneyball",
+  "year": "2011",
+  "votes": 6079,
+  "nearMiss": false
+ },
+ "F1|2025": {
+  "id": 911430,
+  "title": "F1／エフワン",
+  "original": "F1",
+  "year": "2025",
+  "votes": 4881,
+  "nearMiss": false
+ },
+ "Elizabeth|1998": {
+  "id": 4518,
+  "title": "エリザベス",
+  "original": "Elizabeth",
+  "year": "1998",
+  "votes": 1547,
+  "nearMiss": false
+ },
+ "Notes on a Scandal|2006": {
+  "id": 1259,
+  "title": "あるスキャンダルの覚え書き",
+  "original": "Notes on a Scandal",
+  "year": "2006",
+  "votes": 1025,
+  "nearMiss": false
+ },
+ "I'm Not There|2007": {
+  "id": 3902,
+  "title": "アイム・ノット・ゼア",
+  "original": "I'm Not There",
+  "year": "2007",
+  "votes": 808,
+  "nearMiss": false
+ },
+ "Blue Jasmine|2013": {
+  "id": 160588,
+  "title": "ブルージャスミン",
+  "original": "Blue Jasmine",
+  "year": "2013",
+  "votes": 3763,
+  "nearMiss": false
+ },
+ "Ocean's Eight|2018": {
+  "id": 402900,
+  "title": "オーシャンズ8",
+  "original": "Ocean's Eight",
+  "year": "2018",
+  "votes": 9062,
+  "nearMiss": false
+ },
+ "Nightmare Alley|2021": {
+  "id": 597208,
+  "title": "ナイトメア・アリー",
+  "original": "Nightmare Alley",
+  "year": "2021",
+  "votes": 3529,
+  "nearMiss": false
+ },
+ "Secret Sunshine|2007": {
+  "id": 2015,
+  "title": "シークレット・サンシャイン",
+  "original": "밀양",
+  "year": "2007",
+  "votes": 252,
+  "nearMiss": false
+ },
+ "The Attorney|2013": {
+  "id": 242452,
+  "title": "弁護人",
+  "original": "변호인",
+  "year": "2013",
+  "votes": 234,
+  "nearMiss": false
+ },
+ "The Eel|1997": {
+  "id": 20506,
+  "title": "うなぎ",
+  "original": "うなぎ",
+  "year": "1997",
+  "votes": 135,
+  "nearMiss": false
+ },
+ "Eureka|2000": {
+  "id": 38047,
+  "title": "ユリイカ",
+  "original": "ユリイカ",
+  "year": "2001",
+  "votes": 103,
+  "nearMiss": false
+ },
+ "Warm Water Under a Red Bridge|2001": {
+  "id": 44768,
+  "title": "赤い橋の下のぬるい水",
+  "original": "赤い橋の下のぬるい水",
+  "year": "2001",
+  "votes": 54,
+  "nearMiss": false
+ },
+ "Babel|2006": {
+  "id": 1164,
+  "title": "バベル",
+  "original": "Babel",
+  "year": "2006",
+  "votes": 4236,
+  "nearMiss": false
+ },
+ "Tokyo Sonata|2008": {
+  "id": 8937,
+  "title": "トウキョウソナタ",
+  "original": "トウキョウソナタ",
+  "year": "2008",
+  "votes": 296,
+  "nearMiss": false
+ },
+ "13 Assassins|2010": {
+  "id": 58857,
+  "title": "十三人の刺客",
+  "original": "十三人の刺客",
+  "year": "2010",
+  "votes": 1332,
+  "nearMiss": false
+ },
+ "The Blood of Wolves|2018": {
+  "id": 474538,
+  "title": "孤狼の血",
+  "original": "孤狼の血",
+  "year": "2018",
+  "votes": 40,
+  "nearMiss": false
+ },
+ "Under the Open Sky|2020": {
+  "id": 728882,
+  "title": "すばらしき世界",
+  "original": "すばらしき世界",
+  "year": "2021",
+  "votes": 48,
+  "nearMiss": false
+ },
+ "Top Gun|1986": {
+  "id": 744,
+  "title": "トップガン",
+  "original": "Top Gun",
+  "year": "1986",
+  "votes": 10030,
+  "nearMiss": false
+ },
+ "Born on the Fourth of July|1989": {
+  "id": 2604,
+  "title": "7月4日に生まれて",
+  "original": "Born on the Fourth of July",
+  "year": "1989",
+  "votes": 1971,
+  "nearMiss": false
+ },
+ "Jerry Maguire|1996": {
+  "id": 9390,
+  "title": "ザ・エージェント",
+  "original": "Jerry Maguire",
+  "year": "1996",
+  "votes": 3942,
+  "nearMiss": false
+ },
+ "Collateral|2004": {
+  "id": 1538,
+  "title": "コラテラル",
+  "original": "Collateral",
+  "year": "2004",
+  "votes": 6588,
+  "nearMiss": false
+ },
+ "Top Gun: Maverick|2022": {
+  "id": 361743,
+  "title": "トップガン マーヴェリック",
+  "original": "Top Gun: Maverick",
+  "year": "2022",
+  "votes": 11779,
+  "nearMiss": false
+ },
+ "Glory|1989": {
+  "id": 9665,
+  "title": "グローリー",
+  "original": "Glory",
+  "year": "1989",
+  "votes": 1896,
+  "nearMiss": false
+ },
+ "Malcolm X|1992": {
+  "id": 1883,
+  "title": "マルコムＸ",
+  "original": "Malcolm X",
+  "year": "1992",
+  "votes": 2021,
+  "nearMiss": false
+ },
+ "Crimson Tide|1995": {
+  "id": 8963,
+  "title": "クリムゾン・タイド",
+  "original": "Crimson Tide",
+  "year": "1995",
+  "votes": 2100,
+  "nearMiss": false
+ },
+ "The Hurricane|1999": {
+  "id": 10400,
+  "title": "ザ・ハリケーン",
+  "original": "The Hurricane",
+  "year": "1999",
+  "votes": 1589,
+  "nearMiss": false
+ },
+ "Man on Fire|2004": {
+  "id": 9509,
+  "title": "マイ・ボディガード",
+  "original": "Man on Fire",
+  "year": "2004",
+  "votes": 5971,
+  "nearMiss": false
+ },
+ "American Gangster|2007": {
+  "id": 4982,
+  "title": "アメリカン・ギャングスター",
+  "original": "American Gangster",
+  "year": "2007",
+  "votes": 6325,
+  "nearMiss": false
+ },
+ "Flight|2012": {
+  "id": 87502,
+  "title": "フライト",
+  "original": "Flight",
+  "year": "2012",
+  "votes": 6669,
+  "nearMiss": false
+ },
+ "Fences|2016": {
+  "id": 393457,
+  "title": "フェンス",
+  "original": "Fences",
+  "year": "2016",
+  "votes": 2873,
+  "nearMiss": false
+ },
+ "The Tragedy of Macbeth|2021": {
+  "id": 591538,
+  "title": "マクベス",
+  "original": "The Tragedy of Macbeth",
+  "year": "2021",
+  "votes": 911,
+  "nearMiss": false
+ },
+ "Beautiful Boy|2018": {
+  "id": 451915,
+  "title": "ビューティフル・ボーイ",
+  "original": "Beautiful Boy",
+  "year": "2018",
+  "votes": 2995,
+  "nearMiss": false
+ },
+ "Bones and All|2022": {
+  "id": 791177,
+  "title": "ボーンズ アンド オール",
+  "original": "Bones and All",
+  "year": "2022",
+  "votes": 1730,
+  "nearMiss": false
+ },
+ "Wonka|2023": {
+  "id": 787699,
+  "title": "ウォンカとチョコレート工場のはじまり",
+  "original": "Wonka",
+  "year": "2023",
+  "votes": 4607,
+  "nearMiss": false
+ },
+ "A Complete Unknown|2024": {
+  "id": 661539,
+  "title": "名もなき者/A COMPLETE UNKNOWN",
+  "original": "A Complete Unknown",
+  "year": "2024",
+  "votes": 1597,
+  "nearMiss": false
+ },
+ "Zombieland|2009": {
+  "id": 19908,
+  "title": "ゾンビランド",
+  "original": "Zombieland",
+  "year": "2009",
+  "votes": 13616,
+  "nearMiss": false
+ },
+ "Easy A|2010": {
+  "id": 37735,
+  "title": "小悪魔はなぜモテる?!",
+  "original": "Easy A",
+  "year": "2010",
+  "votes": 7605,
+  "nearMiss": false
+ },
+ "Crazy, Stupid, Love.|2011": {
+  "id": 50646,
+  "title": "ラブ・アゲイン",
+  "original": "Crazy, Stupid, Love.",
+  "year": "2011",
+  "votes": 9609,
+  "nearMiss": false
+ },
+ "The Help|2011": {
+  "id": 50014,
+  "title": "ヘルプ 〜心がつなぐストーリー〜",
+  "original": "The Help",
+  "year": "2011",
+  "votes": 9372,
+  "nearMiss": false
+ },
+ "The Favourite|2018": {
+  "id": 375262,
+  "title": "女王陛下のお気に入り",
+  "original": "The Favourite",
+  "year": "2018",
+  "votes": 6104,
+  "nearMiss": false
+ },
+ "Cruella|2021": {
+  "id": 337404,
+  "title": "クルエラ",
+  "original": "Cruella",
+  "year": "2021",
+  "votes": 10404,
+  "nearMiss": false
+ },
+ "Kinds of Kindness|2024": {
+  "id": 1029955,
+  "title": "憐れみの３章",
+  "original": "Kinds of Kindness",
+  "year": "2024",
+  "votes": 1387,
+  "nearMiss": false
+ },
+ "Bugonia|2025": {
+  "id": 701387,
+  "title": "ブゴニア",
+  "original": "Bugonia",
+  "year": "2025",
+  "votes": 2534,
+  "nearMiss": false
+ },
+ "The Notebook|2004": {
+  "id": 11036,
+  "title": "きみに読む物語",
+  "original": "The Notebook",
+  "year": "2004",
+  "votes": 12994,
+  "nearMiss": false
+ },
+ "Half Nelson|2006": {
+  "id": 7859,
+  "title": "ハーフネルソン",
+  "original": "Half Nelson",
+  "year": "2006",
+  "votes": 1006,
+  "nearMiss": false
+ },
+ "Lars and the Real Girl|2007": {
+  "id": 6615,
+  "title": "ラースと、その彼女",
+  "original": "Lars and the Real Girl",
+  "year": "2007",
+  "votes": 2203,
+  "nearMiss": false
+ },
+ "Blue Valentine|2010": {
+  "id": 46705,
+  "title": "ブルーバレンタイン",
+  "original": "Blue Valentine",
+  "year": "2010",
+  "votes": 3655,
+  "nearMiss": false
+ },
+ "The Ides of March|2011": {
+  "id": 10316,
+  "title": "スーパー・チューズデー 〜正義を売った日〜",
+  "original": "The Ides of March",
+  "year": "2011",
+  "votes": 2830,
+  "nearMiss": false
+ },
+ "The Place Beyond the Pines|2012": {
+  "id": 97367,
+  "title": "プレイス・ビヨンド・ザ・パインズ／宿命",
+  "original": "The Place Beyond the Pines",
+  "year": "2013",
+  "votes": 5374,
+  "nearMiss": false
+ },
+ "The Big Short|2015": {
+  "id": 318846,
+  "title": "マネー・ショート 華麗なる大逆転",
+  "original": "The Big Short",
+  "year": "2015",
+  "votes": 10198,
+  "nearMiss": false
+ },
+ "The Nice Guys|2016": {
+  "id": 290250,
+  "title": "ナイスガイズ！",
+  "original": "The Nice Guys",
+  "year": "2016",
+  "votes": 9040,
+  "nearMiss": false
+ },
+ "The Fall Guy|2024": {
+  "id": 746036,
+  "title": "フォールガイ",
+  "original": "The Fall Guy",
+  "year": "2024",
+  "votes": 4150,
+  "nearMiss": false
+ },
+ "Samurai Rebellion|1967": {
+  "id": 27031,
+  "title": "上意討ち 拝領妻始末",
+  "original": "上意討ち 拝領妻始末",
+  "year": "1967",
+  "votes": 282,
+  "nearMiss": false
+ },
+ "Hell in the Pacific|1968": {
+  "id": 31681,
+  "title": "太平洋の地獄",
+  "original": "Hell in the Pacific",
+  "year": "1968",
+  "votes": 195,
+  "nearMiss": false
+ },
+ "Gladiator|2000": {
+  "id": 98,
+  "title": "グラディエーター",
+  "original": "Gladiator",
+  "year": "2000",
+  "votes": 21731,
+  "nearMiss": false
+ },
+ "Signs|2002": {
+  "id": 2675,
+  "title": "サイン",
+  "original": "Signs",
+  "year": "2002",
+  "votes": 6627,
+  "nearMiss": false
+ },
+ "Walk the Line|2005": {
+  "id": 69,
+  "title": "ウォーク・ザ・ライン",
+  "original": "Walk the Line",
+  "year": "2005",
+  "votes": 3246,
+  "nearMiss": false
+ },
+ "The Master|2012": {
+  "id": 68722,
+  "title": "ザ・マスター",
+  "original": "The Master",
+  "year": "2012",
+  "votes": 3455,
+  "nearMiss": false
+ },
+ "Inherent Vice|2014": {
+  "id": 171274,
+  "title": "インヒアレント・ヴァイス",
+  "original": "Inherent Vice",
+  "year": "2014",
+  "votes": 2823,
+  "nearMiss": false
+ },
+ "You Were Never Really Here|2017": {
+  "id": 398181,
+  "title": "ビューティフル・デイ",
+  "original": "You Were Never Really Here",
+  "year": "2017",
+  "votes": 3156,
+  "nearMiss": false
+ },
+ "C'mon C'mon|2021": {
+  "id": 632617,
+  "title": "カモン カモン",
+  "original": "C'mon C'mon",
+  "year": "2021",
+  "votes": 803,
+  "nearMiss": false
+ },
+ "Napoleon|2023": {
+  "id": 753342,
+  "title": "ナポレオン",
+  "original": "Napoleon",
+  "year": "2023",
+  "votes": 3312,
+  "nearMiss": false
+ },
+ "Joker: Folie à Deux|2024": {
+  "id": 889737,
+  "title": "ジョーカー：フォリ・ア・ドゥ",
+  "original": "Joker: Folie à Deux",
+  "year": "2024",
+  "votes": 3126,
+  "nearMiss": false
+ },
+ "Kakera: A Piece of Our Life|2009": {
+  "id": 62390,
+  "title": "カケラ",
+  "original": "カケラ",
+  "year": "2010",
+  "votes": 21,
+  "nearMiss": false
+ },
+ "Our Family|2014": {
+  "id": 287771,
+  "title": "ぼくたちの家族",
+  "original": "ぼくたちの家族",
+  "year": "2014",
+  "votes": 11,
+  "nearMiss": false
+ },
+ "100 Yen Love|2014": {
+  "id": 314606,
+  "title": "百円の恋",
+  "original": "百円の恋",
+  "year": "2014",
+  "votes": 98,
+  "nearMiss": false
+ },
+ "Kiku to Isamu|2024": {
+  "id": 262482,
+  "title": "キクとイサム",
+  "original": "キクとイサム",
+  "year": "1959",
+  "votes": 8,
+  "nearMiss": true
+ },
+ "Parasite|2019": {
+  "id": 496243,
+  "title": "パラサイト 半地下の家族",
+  "original": "기생충",
+  "year": "2019",
+  "votes": 21553,
+  "fixed": true
+ },
+ "Look Back|2024": {
+  "id": 1244492,
+  "title": "ルックバック",
+  "original": "ルックバック",
+  "year": "2024",
+  "votes": 699,
+  "fixed": true
+ },
+ "Monster|2023": {
+  "id": 1050035,
+  "title": "怪物",
+  "original": "怪物",
+  "year": "2023",
+  "votes": 983,
+  "fixed": true
+ },
+ "Moon|2009": {
+  "id": 17431,
+  "title": "月に囚われた男",
+  "original": "Moon",
+  "year": "2009",
+  "votes": 6588,
+  "fixed": true
+ },
+ "Ring|1998": {
+  "id": 2671,
+  "title": "リング",
+  "original": "リング",
+  "year": "1998",
+  "votes": 1767,
+  "fixed": true
+ },
+ "Outrage|2010": {
+  "id": 45284,
+  "title": "アウトレイジ",
+  "original": "アウトレイジ",
+  "year": "2010",
+  "votes": 477,
+  "fixed": true
+ },
+ "Linda Linda Linda|2005": {
+  "id": 27337,
+  "title": "リンダ リンダ リンダ",
+  "original": "リンダ リンダ リンダ",
+  "year": "2005",
+  "votes": 185,
+  "fixed": true
+ },
+ "The Fall|2006": {
+  "id": 14784,
+  "title": "落下の王国",
+  "original": "The Fall",
+  "year": "2008",
+  "votes": 1639,
+  "fixed": true
+ },
+ "House|1977": {
+  "id": 25623,
+  "title": "ハウス",
+  "original": "ハウス",
+  "year": "1977",
+  "votes": 852,
+  "fixed": true
+ },
+ "Ran|1985": {
+  "id": 11645,
+  "title": "乱",
+  "original": "乱",
+  "year": "1985",
+  "votes": 1953,
+  "fixed": true
+ },
+ "Confessions|2010": {
+  "id": 54186,
+  "title": "告白",
+  "original": "告白",
+  "year": "2010",
+  "votes": 1037,
+  "fixed": true
+ },
+ "Burning|2018": {
+  "id": 491584,
+  "title": "バーニング 劇場版",
+  "original": "버닝",
+  "year": "2018",
+  "votes": 1915,
+  "fixed": true
+ },
+ "Poetry|2010": {
+  "id": 47909,
+  "title": "ポエトリー アグネスの詩",
+  "original": "시",
+  "year": "2010",
+  "votes": 356,
+  "fixed": true
+ },
+ "Mother|2009": {
+  "id": 30018,
+  "title": "母なる証明",
+  "original": "마더",
+  "year": "2009",
+  "votes": 1772,
+  "fixed": true
+ },
+ "The Hunt|2012": {
+  "id": 103663,
+  "title": "偽りなき者",
+  "original": "Jagten",
+  "year": "2012",
+  "votes": 5048,
+  "fixed": true
+ },
+ "Border|2018": {
+  "id": 517839,
+  "title": "ボーダー 二つの世界",
+  "original": "Gräns",
+  "year": "2018",
+  "votes": 959,
+  "fixed": true
+ },
+ "Harry Potter and the Deathly Hallows: Part 1|2010": {
+  "id": 12444,
+  "title": "ハリー・ポッターと死の秘宝 Part1",
+  "original": "Harry Potter and the Deathly Hallows: Part 1",
+  "year": "2010",
+  "votes": 20956,
+  "fixed": true
+ },
+ "Happening|2021": {
+  "id": 793998,
+  "title": "あのこと",
+  "original": "L'Événement",
+  "year": "2021",
+  "votes": 533,
+  "fixed": true
+ },
+ "Head-On|2004": {
+  "id": 363,
+  "title": "愛より強く",
+  "original": "Gegen die Wand",
+  "year": "2004",
+  "votes": 653,
+  "fixed": true
+ },
+ "Taxi|2015": {
+  "id": 320006,
+  "title": "人生タクシー",
+  "original": "تاکسی",
+  "year": "2015",
+  "votes": 502,
+  "fixed": true
+ },
+ "Rebirth|2011": {
+  "id": 94054,
+  "title": "八日目の蟬",
+  "original": "八日目の蟬",
+  "year": "2011",
+  "votes": 26,
+  "fixed": true
+ },
+ "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles|1975": {
+  "id": 44012,
+  "title": "ジャンヌ・ディエルマン ブリュッセル1080、コメルス河畔通り23番地",
+  "original": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+  "year": "1976",
+  "votes": 418,
+  "fixed": true
+ },
+ "Stalker|1979": {
+  "id": 1398,
+  "title": "ストーカー",
+  "original": "Сталкер",
+  "year": "1979",
+  "votes": 2643,
+  "fixed": true
+ },
+ "Villain|2010": {
+  "id": 61888,
+  "title": "悪人",
+  "original": "悪人",
+  "year": "2010",
+  "votes": 51,
+  "fixed": true
+ },
+ "Postcard|2011": {
+  "id": 133160,
+  "title": "一枚のハガキ",
+  "original": "一枚のハガキ",
+  "year": "2010",
+  "votes": 12,
+  "fixed": true
+ },
+ "After Life|1998": {
+  "id": 17962,
+  "title": "ワンダフルライフ",
+  "original": "ワンダフルライフ",
+  "year": "1999",
+  "votes": 304,
+  "fixed": true
+ },
+ "I Wish|2011": {
+  "id": 79382,
+  "title": "奇跡",
+  "original": "奇跡",
+  "year": "2011",
+  "votes": 184,
+  "fixed": true
+ },
+ "Like Father, Like Son|2013": {
+  "id": 177945,
+  "title": "そして父になる",
+  "original": "そして父になる",
+  "year": "2013",
+  "votes": 832,
+  "fixed": true
+ },
+ "The Host|2006": {
+  "id": 1255,
+  "title": "グエムル -漢江の怪物-",
+  "original": "괴물",
+  "year": "2006",
+  "votes": 3279,
+  "fixed": true
+ },
+ "Thirst|2009": {
+  "id": 22536,
+  "title": "渇き",
+  "original": "박쥐",
+  "year": "2009",
+  "votes": 1139,
+  "fixed": true
+ },
+ "Stray Dog|1949": {
+  "id": 30368,
+  "title": "野良犬",
+  "original": "野良犬",
+  "year": "1949",
+  "votes": 384,
+  "fixed": true
+ },
+ "Dreams|1990": {
+  "id": 12516,
+  "title": "夢",
+  "original": "夢",
+  "year": "1990",
+  "votes": 608,
+  "fixed": true
+ },
+ "Dolls|2002": {
+  "id": 870,
+  "title": "ドールズ",
+  "original": "ドールズ",
+  "year": "2002",
+  "votes": 382,
+  "fixed": true
+ },
+ "Lost Paradise|1997": {
+  "id": 68606,
+  "title": "失楽園",
+  "original": "失楽園",
+  "year": "1997",
+  "votes": 28,
+  "fixed": true
+ },
+ "The King|2019": {
+  "id": 504949,
+  "title": "キング",
+  "original": "The King",
+  "year": "2019",
+  "votes": 3714,
+  "fixed": true
+ }
+}
