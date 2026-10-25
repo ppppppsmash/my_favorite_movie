@@ -34,7 +34,7 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="ja" className={`${inter.variable} ${notoSansJP.variable} h-full antialiased`}>
+    <html lang="ja" data-scroll-behavior="smooth" className={`${inter.variable} ${notoSansJP.variable} h-full antialiased`}>
       <head>
         {adsense.client && <Script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsense.client}`} crossOrigin="anonymous" strategy="afterInteractive" />}
         {GA_ID && (
